@@ -1,0 +1,1187 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://html5test.com/compare/browser/mybrowser.html
+Subject: HTML5test - How well does your browser support HTML5?
+Date: Sun, 8 May 2022 06:37:08 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--SyCVWwrhRLjkKJQzxlkTPCevCTrdpa5QlgJYgCBrcm----"
+
+
+------MultipartBoundary--SyCVWwrhRLjkKJQzxlkTPCevCTrdpa5QlgJYgCBrcm----
+Content-Type: text/html
+Content-ID: <frame-A0F395776CE252083D96086070EE7FD5@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://html5test.com/compare/browser/mybrowser.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>HTML5test - How well does your browser support HTML5?</title>
+
+		
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="https://html5test.com/css/main.css" type="text/css">
+		<link rel="stylesheet" href="https://html5test.com/css/reporting.css" type="text/css">
+
+		
+		
+		
+		
+
+		
+
+		<meta name="application-name" content="HTML5test">
+
+		<link rel="apple-touch-icon" sizes="57x57" href="https://html5test.com/images/icons/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://html5test.com/images/icons/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://html5test.com/images/icons/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://html5test.com/images/icons/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://html5test.com/images/icons/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://html5test.com/images/icons/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://html5test.com/images/icons/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://html5test.com/images/icons/apple-touch-icon-152x152.png">
+		<link rel="icon" type="image/png" href="https://html5test.com/images/icons/favicon-16x16.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="https://html5test.com/images/icons/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://html5test.com/images/icons/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="https://html5test.com/images/icons/favicon-160x160.png" sizes="160x160">
+		<link rel="icon" type="image/png" href="https://html5test.com/images/icons/favicon-196x196.png" sizes="196x196">
+		<meta name="msapplication-TileColor" content="#0092bf">
+		<meta name="msapplication-TileImage" content="/images/icons/mstile-144x144.png">
+	</head>
+
+	<body>
+		<div class="header">
+			<h1><span>HTML<strong>5</strong>test</span> <em>how well does your browser support HTML5?</em></h1>
+			<div class="navigation">
+				<ul class="left">
+					<li><a href="https://html5test.com/index.html">Your browser</a></li>
+					<li><a href="https://html5test.com/results/desktop.html">Other<span> browser</span>s</a></li>
+					<li class="selected"><a href="https://html5test.com/compare/browser/index.html">Compare</a></li>
+				</ul>
+				<ul class="right">
+					<li><a href="http://blog.html5test.com/">News</a></li>
+					<li><a href="https://html5test.com/devicelab">Device Lab</a></li>
+					<li><a href="https://html5test.com/about.html">About<span> the test</span></a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="page">
+			<div class="column">
+				<div class="paper hasNavigation">
+					<ul class="navigation">
+						<li class="selected"><a href="https://html5test.com/compare/browser/index.html">Browsers</a></li>
+						<li><a href="https://html5test.com/compare/feature/index.html">Features</a></li>
+					</ul>
+
+					<div>
+						<div id="comparison" class="comparisonTable detailsTable">
+							<div class="filters">
+								<div id="searchField"><div class="search"><input type="text" placeholder="Search..." value=""><button>Ã—</button></div></div>
+								<div id="scoreToggle"><div class="toggle"><div class="background"></div><div class="part first">Show all</div><div class="part second">Difference</div></div></div>
+							</div>
+							<hr>
+						<table id="table-header"><tbody><tr id="row-header"><th><h2>Browsers</h2><p>Select up to five browsers and compare their test results in detail</p></th><td class=""><div><div class="name"><span class="nickname">My browser</span><span class="score">520</span></div><div class="popup popupPanel pointsRight hasSearch"><div class="toolbar"><div class="search"><input type="text" placeholder="Search..." value=""><button>Ã—</button></div></div><div class="scroll"><ul><li data-action="calculate">My browser</li><li data-action="custom">Enter unique id...</li><li class="indent-0 title">Desktop browsers</li><li data-action="load" data-id="15">Chrome 30</li><li data-action="load" data-id="25">Chrome 40</li><li data-action="load" data-id="30">Chrome 45</li><li data-action="load" data-id="35">Chrome 50</li><li data-action="load" data-id="36">Chrome 51</li><li data-action="load" data-id="37">Chrome 52</li><li data-action="load" data-id="38">Chrome 53</li><li data-action="load" data-id="39">Chrome 54</li><li data-action="load" data-id="40">Chrome 55</li><li data-action="load" data-id="41">Chrome 56</li><li data-action="load" data-id="42">Chrome 57</li><li data-action="load" data-id="43">Chrome 58</li><li data-action="load" data-id="44">Chrome 59</li><li data-action="load" data-id="45">Chrome 60</li><li data-action="load" data-id="46">Chrome 61</li><li data-action="load" data-id="47">Chrome 62</li><li data-action="load" data-id="48">Chrome 63</li><li data-action="load" data-id="49">Chrome 64</li><li data-action="load" data-id="50">Chrome 65</li><li data-action="load" data-id="51">Chrome 66</li><li data-action="load" data-id="52">Chrome 67</li><li data-action="load" data-id="53">Chrome 68</li><li data-action="load" data-id="54">Edge 12</li><li data-action="load" data-id="55">Edge 13</li><li data-action="load" data-id="56">Edge 14</li><li data-action="load" data-id="57">Edge 15</li><li data-action="load" data-id="58">Edge 16</li><li data-action="load" data-id="59">Edge 17</li><li data-action="load" data-id="60">Edge 18</li><li data-action="load" data-id="61">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="89">Firefox 30</li><li data-action="load" data-id="94">Firefox 35</li><li data-action="load" data-id="99">Firefox 40</li><li data-action="load" data-id="104">Firefox 45</li><li data-action="load" data-id="105">Firefox 46</li><li data-action="load" data-id="106">Firefox 47</li><li data-action="load" data-id="107">Firefox 48</li><li data-action="load" data-id="108">Firefox 49</li><li data-action="load" data-id="109">Firefox 50</li><li data-action="load" data-id="110">Firefox 51</li><li data-action="load" data-id="111">Firefox 52</li><li data-action="load" data-id="112">Firefox 53</li><li data-action="load" data-id="113">Firefox 54</li><li data-action="load" data-id="114">Firefox 55</li><li data-action="load" data-id="115">Firefox 56</li><li data-action="load" data-id="116">Firefox 57</li><li data-action="load" data-id="117">Firefox 58</li><li data-action="load" data-id="118">Firefox 59</li><li data-action="load" data-id="119">Firefox 60</li><li data-action="load" data-id="120">Firefox <em>(All flags enabled)</em></li><li data-action="load" data-id="124">Internet Explorer 9</li><li data-action="load" data-id="125">Internet Explorer 10</li><li data-action="load" data-id="126">Internet Explorer 11</li><li data-action="load" data-id="132">Opera 12.10</li><li data-action="load" data-id="147">Opera 30</li><li data-action="load" data-id="154">Opera 37</li><li data-action="load" data-id="155">Opera 45</li><li data-action="load" data-id="160">Safari 8.0</li><li data-action="load" data-id="161">Safari 9.0</li><li data-action="load" data-id="162">Safari 9.1</li><li data-action="load" data-id="163">Safari 10.0</li><li data-action="load" data-id="164">Safari 10.1</li><li data-action="load" data-id="165">Safari 11</li><li data-action="load" data-id="166">Safari 11.1</li><li data-action="load" data-id="167">Safari 11.2</li><li class="indent-0 title">Tablets</li><li data-action="load" data-id="172">Chrome 51</li><li data-action="load" data-id="173">Chrome 52</li><li data-action="load" data-id="174">Edge 12</li><li data-action="load" data-id="175">Edge 13</li><li data-action="load" data-id="176">Edge 14</li><li data-action="load" data-id="177">Edge 15</li><li data-action="load" data-id="178">Edge 16</li><li data-action="load" data-id="179">Edge 17</li><li data-action="load" data-id="180">Edge 18</li><li data-action="load" data-id="181">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="184">Firefox Mobile 47</li><li data-action="load" data-id="185">Firefox Mobile 48</li><li data-action="load" data-id="186">Internet Explorer 10</li><li data-action="load" data-id="187">Internet Explorer 11</li><li data-action="load" data-id="190">iOS 7.0</li><li data-action="load" data-id="191">iOS 8.0</li><li data-action="load" data-id="192">iOS 9.0</li><li data-action="load" data-id="193">iOS 9.3</li><li data-action="load" data-id="194">iOS 10.0</li><li data-action="load" data-id="196">iOS 10.2</li><li data-action="load" data-id="197">iOS 10.3</li><li data-action="load" data-id="198">Amazon Silk</li><li data-action="load" data-id="199">Opera Mobile 12.10</li><li data-action="load" data-id="202">Opera Mobile 37</li><li class="indent-0 title">Mobiles</li><li data-action="load" data-id="204">Samsung Internet 4.0</li><li data-action="load" data-id="205">Samsung Internet 5.0</li><li data-action="load" data-id="207">Samsung Internet 5.4</li><li data-action="load" data-id="208">Samsung Internet 6.2</li><li data-action="load" data-id="209">Samsung Internet 2.0</li><li data-action="load" data-id="210">Samsung Internet 3.0</li><li data-action="load" data-id="211">BlackBerry 10.3</li><li data-action="load" data-id="215">Chrome 51</li><li data-action="load" data-id="216">Chrome 52</li><li data-action="load" data-id="217">Edge 13</li><li data-action="load" data-id="218">Edge 14</li><li data-action="load" data-id="221">Firefox Mobile 47</li><li data-action="load" data-id="222">Firefox Mobile 48</li><li data-action="load" data-id="223">Internet Explorer 9 <em>(Windows Phone 7.5)</em></li><li data-action="load" data-id="224">Internet Explorer 10 <em>(Windows Phone 8)</em></li><li data-action="load" data-id="225">Internet Explorer 11 <em>(Windows Phone 8.1)</em></li><li data-action="load" data-id="230">iOS 7.0</li><li data-action="load" data-id="231">iOS 8.0</li><li data-action="load" data-id="232">iOS 9.0</li><li data-action="load" data-id="233">iOS 9.3</li><li data-action="load" data-id="234">iOS 10.0</li><li data-action="load" data-id="236">iOS 10.2</li><li data-action="load" data-id="237">iOS 10.3</li><li data-action="load" data-id="238">Amazon Silk</li><li data-action="load" data-id="240">Opera Mobile 12.10</li><li data-action="load" data-id="243">Opera Mobile 37</li><li data-action="load" data-id="244">Tizen 2.3</li><li class="indent-0 title">Gaming</li><li data-action="load" data-id="248">Xbox One <em>(Edge 15)</em></li><li data-action="load" data-id="249">Xbox One <em>(Edge 16)</em></li><li data-action="load" data-id="250">Xbox One <em>(Edge 13)</em></li><li data-action="load" data-id="251">Xbox One <em>(Edge 14)</em></li><li class="more" data-action="more">Show more</li></ul></div></div></div></td><td class="empty"><div><div class="name"></div><div class="popup popupPanel pointsRight hasSearch"><div class="toolbar"><div class="search"><input type="text" placeholder="Search..." value=""><button>Ã—</button></div></div><div class="scroll"><ul><li data-action="calculate">My browser</li><li data-action="custom">Enter unique id...</li><li class="indent-0 title">Desktop browsers</li><li data-action="load" data-id="15">Chrome 30</li><li data-action="load" data-id="25">Chrome 40</li><li data-action="load" data-id="30">Chrome 45</li><li data-action="load" data-id="35">Chrome 50</li><li data-action="load" data-id="36">Chrome 51</li><li data-action="load" data-id="37">Chrome 52</li><li data-action="load" data-id="38">Chrome 53</li><li data-action="load" data-id="39">Chrome 54</li><li data-action="load" data-id="40">Chrome 55</li><li data-action="load" data-id="41">Chrome 56</li><li data-action="load" data-id="42">Chrome 57</li><li data-action="load" data-id="43">Chrome 58</li><li data-action="load" data-id="44">Chrome 59</li><li data-action="load" data-id="45">Chrome 60</li><li data-action="load" data-id="46">Chrome 61</li><li data-action="load" data-id="47">Chrome 62</li><li data-action="load" data-id="48">Chrome 63</li><li data-action="load" data-id="49">Chrome 64</li><li data-action="load" data-id="50">Chrome 65</li><li data-action="load" data-id="51">Chrome 66</li><li data-action="load" data-id="52">Chrome 67</li><li data-action="load" data-id="53">Chrome 68</li><li data-action="load" data-id="54">Edge 12</li><li data-action="load" data-id="55">Edge 13</li><li data-action="load" data-id="56">Edge 14</li><li data-action="load" data-id="57">Edge 15</li><li data-action="load" data-id="58">Edge 16</li><li data-action="load" data-id="59">Edge 17</li><li data-action="load" data-id="60">Edge 18</li><li data-action="load" data-id="61">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="89">Firefox 30</li><li data-action="load" data-id="94">Firefox 35</li><li data-action="load" data-id="99">Firefox 40</li><li data-action="load" data-id="104">Firefox 45</li><li data-action="load" data-id="105">Firefox 46</li><li data-action="load" data-id="106">Firefox 47</li><li data-action="load" data-id="107">Firefox 48</li><li data-action="load" data-id="108">Firefox 49</li><li data-action="load" data-id="109">Firefox 50</li><li data-action="load" data-id="110">Firefox 51</li><li data-action="load" data-id="111">Firefox 52</li><li data-action="load" data-id="112">Firefox 53</li><li data-action="load" data-id="113">Firefox 54</li><li data-action="load" data-id="114">Firefox 55</li><li data-action="load" data-id="115">Firefox 56</li><li data-action="load" data-id="116">Firefox 57</li><li data-action="load" data-id="117">Firefox 58</li><li data-action="load" data-id="118">Firefox 59</li><li data-action="load" data-id="119">Firefox 60</li><li data-action="load" data-id="120">Firefox <em>(All flags enabled)</em></li><li data-action="load" data-id="124">Internet Explorer 9</li><li data-action="load" data-id="125">Internet Explorer 10</li><li data-action="load" data-id="126">Internet Explorer 11</li><li data-action="load" data-id="132">Opera 12.10</li><li data-action="load" data-id="147">Opera 30</li><li data-action="load" data-id="154">Opera 37</li><li data-action="load" data-id="155">Opera 45</li><li data-action="load" data-id="160">Safari 8.0</li><li data-action="load" data-id="161">Safari 9.0</li><li data-action="load" data-id="162">Safari 9.1</li><li data-action="load" data-id="163">Safari 10.0</li><li data-action="load" data-id="164">Safari 10.1</li><li data-action="load" data-id="165">Safari 11</li><li data-action="load" data-id="166">Safari 11.1</li><li data-action="load" data-id="167">Safari 11.2</li><li class="indent-0 title">Tablets</li><li data-action="load" data-id="172">Chrome 51</li><li data-action="load" data-id="173">Chrome 52</li><li data-action="load" data-id="174">Edge 12</li><li data-action="load" data-id="175">Edge 13</li><li data-action="load" data-id="176">Edge 14</li><li data-action="load" data-id="177">Edge 15</li><li data-action="load" data-id="178">Edge 16</li><li data-action="load" data-id="179">Edge 17</li><li data-action="load" data-id="180">Edge 18</li><li data-action="load" data-id="181">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="184">Firefox Mobile 47</li><li data-action="load" data-id="185">Firefox Mobile 48</li><li data-action="load" data-id="186">Internet Explorer 10</li><li data-action="load" data-id="187">Internet Explorer 11</li><li data-action="load" data-id="190">iOS 7.0</li><li data-action="load" data-id="191">iOS 8.0</li><li data-action="load" data-id="192">iOS 9.0</li><li data-action="load" data-id="193">iOS 9.3</li><li data-action="load" data-id="194">iOS 10.0</li><li data-action="load" data-id="196">iOS 10.2</li><li data-action="load" data-id="197">iOS 10.3</li><li data-action="load" data-id="198">Amazon Silk</li><li data-action="load" data-id="199">Opera Mobile 12.10</li><li data-action="load" data-id="202">Opera Mobile 37</li><li class="indent-0 title">Mobiles</li><li data-action="load" data-id="204">Samsung Internet 4.0</li><li data-action="load" data-id="205">Samsung Internet 5.0</li><li data-action="load" data-id="207">Samsung Internet 5.4</li><li data-action="load" data-id="208">Samsung Internet 6.2</li><li data-action="load" data-id="209">Samsung Internet 2.0</li><li data-action="load" data-id="210">Samsung Internet 3.0</li><li data-action="load" data-id="211">BlackBerry 10.3</li><li data-action="load" data-id="215">Chrome 51</li><li data-action="load" data-id="216">Chrome 52</li><li data-action="load" data-id="217">Edge 13</li><li data-action="load" data-id="218">Edge 14</li><li data-action="load" data-id="221">Firefox Mobile 47</li><li data-action="load" data-id="222">Firefox Mobile 48</li><li data-action="load" data-id="223">Internet Explorer 9 <em>(Windows Phone 7.5)</em></li><li data-action="load" data-id="224">Internet Explorer 10 <em>(Windows Phone 8)</em></li><li data-action="load" data-id="225">Internet Explorer 11 <em>(Windows Phone 8.1)</em></li><li data-action="load" data-id="230">iOS 7.0</li><li data-action="load" data-id="231">iOS 8.0</li><li data-action="load" data-id="232">iOS 9.0</li><li data-action="load" data-id="233">iOS 9.3</li><li data-action="load" data-id="234">iOS 10.0</li><li data-action="load" data-id="236">iOS 10.2</li><li data-action="load" data-id="237">iOS 10.3</li><li data-action="load" data-id="238">Amazon Silk</li><li data-action="load" data-id="240">Opera Mobile 12.10</li><li data-action="load" data-id="243">Opera Mobile 37</li><li data-action="load" data-id="244">Tizen 2.3</li><li class="indent-0 title">Gaming</li><li data-action="load" data-id="248">Xbox One <em>(Edge 15)</em></li><li data-action="load" data-id="249">Xbox One <em>(Edge 16)</em></li><li data-action="load" data-id="250">Xbox One <em>(Edge 13)</em></li><li data-action="load" data-id="251">Xbox One <em>(Edge 14)</em></li><li class="more" data-action="more">Show more</li></ul></div></div></div></td><td class="empty"><div><div class="name"></div><div class="popup popupPanel pointsRight hasSearch"><div class="toolbar"><div class="search"><input type="text" placeholder="Search..." value=""><button>Ã—</button></div></div><div class="scroll"><ul><li data-action="calculate">My browser</li><li data-action="custom">Enter unique id...</li><li class="indent-0 title">Desktop browsers</li><li data-action="load" data-id="15">Chrome 30</li><li data-action="load" data-id="25">Chrome 40</li><li data-action="load" data-id="30">Chrome 45</li><li data-action="load" data-id="35">Chrome 50</li><li data-action="load" data-id="36">Chrome 51</li><li data-action="load" data-id="37">Chrome 52</li><li data-action="load" data-id="38">Chrome 53</li><li data-action="load" data-id="39">Chrome 54</li><li data-action="load" data-id="40">Chrome 55</li><li data-action="load" data-id="41">Chrome 56</li><li data-action="load" data-id="42">Chrome 57</li><li data-action="load" data-id="43">Chrome 58</li><li data-action="load" data-id="44">Chrome 59</li><li data-action="load" data-id="45">Chrome 60</li><li data-action="load" data-id="46">Chrome 61</li><li data-action="load" data-id="47">Chrome 62</li><li data-action="load" data-id="48">Chrome 63</li><li data-action="load" data-id="49">Chrome 64</li><li data-action="load" data-id="50">Chrome 65</li><li data-action="load" data-id="51">Chrome 66</li><li data-action="load" data-id="52">Chrome 67</li><li data-action="load" data-id="53">Chrome 68</li><li data-action="load" data-id="54">Edge 12</li><li data-action="load" data-id="55">Edge 13</li><li data-action="load" data-id="56">Edge 14</li><li data-action="load" data-id="57">Edge 15</li><li data-action="load" data-id="58">Edge 16</li><li data-action="load" data-id="59">Edge 17</li><li data-action="load" data-id="60">Edge 18</li><li data-action="load" data-id="61">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="89">Firefox 30</li><li data-action="load" data-id="94">Firefox 35</li><li data-action="load" data-id="99">Firefox 40</li><li data-action="load" data-id="104">Firefox 45</li><li data-action="load" data-id="105">Firefox 46</li><li data-action="load" data-id="106">Firefox 47</li><li data-action="load" data-id="107">Firefox 48</li><li data-action="load" data-id="108">Firefox 49</li><li data-action="load" data-id="109">Firefox 50</li><li data-action="load" data-id="110">Firefox 51</li><li data-action="load" data-id="111">Firefox 52</li><li data-action="load" data-id="112">Firefox 53</li><li data-action="load" data-id="113">Firefox 54</li><li data-action="load" data-id="114">Firefox 55</li><li data-action="load" data-id="115">Firefox 56</li><li data-action="load" data-id="116">Firefox 57</li><li data-action="load" data-id="117">Firefox 58</li><li data-action="load" data-id="118">Firefox 59</li><li data-action="load" data-id="119">Firefox 60</li><li data-action="load" data-id="120">Firefox <em>(All flags enabled)</em></li><li data-action="load" data-id="124">Internet Explorer 9</li><li data-action="load" data-id="125">Internet Explorer 10</li><li data-action="load" data-id="126">Internet Explorer 11</li><li data-action="load" data-id="132">Opera 12.10</li><li data-action="load" data-id="147">Opera 30</li><li data-action="load" data-id="154">Opera 37</li><li data-action="load" data-id="155">Opera 45</li><li data-action="load" data-id="160">Safari 8.0</li><li data-action="load" data-id="161">Safari 9.0</li><li data-action="load" data-id="162">Safari 9.1</li><li data-action="load" data-id="163">Safari 10.0</li><li data-action="load" data-id="164">Safari 10.1</li><li data-action="load" data-id="165">Safari 11</li><li data-action="load" data-id="166">Safari 11.1</li><li data-action="load" data-id="167">Safari 11.2</li><li class="indent-0 title">Tablets</li><li data-action="load" data-id="172">Chrome 51</li><li data-action="load" data-id="173">Chrome 52</li><li data-action="load" data-id="174">Edge 12</li><li data-action="load" data-id="175">Edge 13</li><li data-action="load" data-id="176">Edge 14</li><li data-action="load" data-id="177">Edge 15</li><li data-action="load" data-id="178">Edge 16</li><li data-action="load" data-id="179">Edge 17</li><li data-action="load" data-id="180">Edge 18</li><li data-action="load" data-id="181">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="184">Firefox Mobile 47</li><li data-action="load" data-id="185">Firefox Mobile 48</li><li data-action="load" data-id="186">Internet Explorer 10</li><li data-action="load" data-id="187">Internet Explorer 11</li><li data-action="load" data-id="190">iOS 7.0</li><li data-action="load" data-id="191">iOS 8.0</li><li data-action="load" data-id="192">iOS 9.0</li><li data-action="load" data-id="193">iOS 9.3</li><li data-action="load" data-id="194">iOS 10.0</li><li data-action="load" data-id="196">iOS 10.2</li><li data-action="load" data-id="197">iOS 10.3</li><li data-action="load" data-id="198">Amazon Silk</li><li data-action="load" data-id="199">Opera Mobile 12.10</li><li data-action="load" data-id="202">Opera Mobile 37</li><li class="indent-0 title">Mobiles</li><li data-action="load" data-id="204">Samsung Internet 4.0</li><li data-action="load" data-id="205">Samsung Internet 5.0</li><li data-action="load" data-id="207">Samsung Internet 5.4</li><li data-action="load" data-id="208">Samsung Internet 6.2</li><li data-action="load" data-id="209">Samsung Internet 2.0</li><li data-action="load" data-id="210">Samsung Internet 3.0</li><li data-action="load" data-id="211">BlackBerry 10.3</li><li data-action="load" data-id="215">Chrome 51</li><li data-action="load" data-id="216">Chrome 52</li><li data-action="load" data-id="217">Edge 13</li><li data-action="load" data-id="218">Edge 14</li><li data-action="load" data-id="221">Firefox Mobile 47</li><li data-action="load" data-id="222">Firefox Mobile 48</li><li data-action="load" data-id="223">Internet Explorer 9 <em>(Windows Phone 7.5)</em></li><li data-action="load" data-id="224">Internet Explorer 10 <em>(Windows Phone 8)</em></li><li data-action="load" data-id="225">Internet Explorer 11 <em>(Windows Phone 8.1)</em></li><li data-action="load" data-id="230">iOS 7.0</li><li data-action="load" data-id="231">iOS 8.0</li><li data-action="load" data-id="232">iOS 9.0</li><li data-action="load" data-id="233">iOS 9.3</li><li data-action="load" data-id="234">iOS 10.0</li><li data-action="load" data-id="236">iOS 10.2</li><li data-action="load" data-id="237">iOS 10.3</li><li data-action="load" data-id="238">Amazon Silk</li><li data-action="load" data-id="240">Opera Mobile 12.10</li><li data-action="load" data-id="243">Opera Mobile 37</li><li data-action="load" data-id="244">Tizen 2.3</li><li class="indent-0 title">Gaming</li><li data-action="load" data-id="248">Xbox One <em>(Edge 15)</em></li><li data-action="load" data-id="249">Xbox One <em>(Edge 16)</em></li><li data-action="load" data-id="250">Xbox One <em>(Edge 13)</em></li><li data-action="load" data-id="251">Xbox One <em>(Edge 14)</em></li><li class="more" data-action="more">Show more</li></ul></div></div></div></td><td class="empty"><div><div class="name"></div><div class="popup popupPanel pointsRight hasSearch"><div class="toolbar"><div class="search"><input type="text" placeholder="Search..." value=""><button>Ã—</button></div></div><div class="scroll"><ul><li data-action="calculate">My browser</li><li data-action="custom">Enter unique id...</li><li class="indent-0 title">Desktop browsers</li><li data-action="load" data-id="15">Chrome 30</li><li data-action="load" data-id="25">Chrome 40</li><li data-action="load" data-id="30">Chrome 45</li><li data-action="load" data-id="35">Chrome 50</li><li data-action="load" data-id="36">Chrome 51</li><li data-action="load" data-id="37">Chrome 52</li><li data-action="load" data-id="38">Chrome 53</li><li data-action="load" data-id="39">Chrome 54</li><li data-action="load" data-id="40">Chrome 55</li><li data-action="load" data-id="41">Chrome 56</li><li data-action="load" data-id="42">Chrome 57</li><li data-action="load" data-id="43">Chrome 58</li><li data-action="load" data-id="44">Chrome 59</li><li data-action="load" data-id="45">Chrome 60</li><li data-action="load" data-id="46">Chrome 61</li><li data-action="load" data-id="47">Chrome 62</li><li data-action="load" data-id="48">Chrome 63</li><li data-action="load" data-id="49">Chrome 64</li><li data-action="load" data-id="50">Chrome 65</li><li data-action="load" data-id="51">Chrome 66</li><li data-action="load" data-id="52">Chrome 67</li><li data-action="load" data-id="53">Chrome 68</li><li data-action="load" data-id="54">Edge 12</li><li data-action="load" data-id="55">Edge 13</li><li data-action="load" data-id="56">Edge 14</li><li data-action="load" data-id="57">Edge 15</li><li data-action="load" data-id="58">Edge 16</li><li data-action="load" data-id="59">Edge 17</li><li data-action="load" data-id="60">Edge 18</li><li data-action="load" data-id="61">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="89">Firefox 30</li><li data-action="load" data-id="94">Firefox 35</li><li data-action="load" data-id="99">Firefox 40</li><li data-action="load" data-id="104">Firefox 45</li><li data-action="load" data-id="105">Firefox 46</li><li data-action="load" data-id="106">Firefox 47</li><li data-action="load" data-id="107">Firefox 48</li><li data-action="load" data-id="108">Firefox 49</li><li data-action="load" data-id="109">Firefox 50</li><li data-action="load" data-id="110">Firefox 51</li><li data-action="load" data-id="111">Firefox 52</li><li data-action="load" data-id="112">Firefox 53</li><li data-action="load" data-id="113">Firefox 54</li><li data-action="load" data-id="114">Firefox 55</li><li data-action="load" data-id="115">Firefox 56</li><li data-action="load" data-id="116">Firefox 57</li><li data-action="load" data-id="117">Firefox 58</li><li data-action="load" data-id="118">Firefox 59</li><li data-action="load" data-id="119">Firefox 60</li><li data-action="load" data-id="120">Firefox <em>(All flags enabled)</em></li><li data-action="load" data-id="124">Internet Explorer 9</li><li data-action="load" data-id="125">Internet Explorer 10</li><li data-action="load" data-id="126">Internet Explorer 11</li><li data-action="load" data-id="132">Opera 12.10</li><li data-action="load" data-id="147">Opera 30</li><li data-action="load" data-id="154">Opera 37</li><li data-action="load" data-id="155">Opera 45</li><li data-action="load" data-id="160">Safari 8.0</li><li data-action="load" data-id="161">Safari 9.0</li><li data-action="load" data-id="162">Safari 9.1</li><li data-action="load" data-id="163">Safari 10.0</li><li data-action="load" data-id="164">Safari 10.1</li><li data-action="load" data-id="165">Safari 11</li><li data-action="load" data-id="166">Safari 11.1</li><li data-action="load" data-id="167">Safari 11.2</li><li class="indent-0 title">Tablets</li><li data-action="load" data-id="172">Chrome 51</li><li data-action="load" data-id="173">Chrome 52</li><li data-action="load" data-id="174">Edge 12</li><li data-action="load" data-id="175">Edge 13</li><li data-action="load" data-id="176">Edge 14</li><li data-action="load" data-id="177">Edge 15</li><li data-action="load" data-id="178">Edge 16</li><li data-action="load" data-id="179">Edge 17</li><li data-action="load" data-id="180">Edge 18</li><li data-action="load" data-id="181">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="184">Firefox Mobile 47</li><li data-action="load" data-id="185">Firefox Mobile 48</li><li data-action="load" data-id="186">Internet Explorer 10</li><li data-action="load" data-id="187">Internet Explorer 11</li><li data-action="load" data-id="190">iOS 7.0</li><li data-action="load" data-id="191">iOS 8.0</li><li data-action="load" data-id="192">iOS 9.0</li><li data-action="load" data-id="193">iOS 9.3</li><li data-action="load" data-id="194">iOS 10.0</li><li data-action="load" data-id="196">iOS 10.2</li><li data-action="load" data-id="197">iOS 10.3</li><li data-action="load" data-id="198">Amazon Silk</li><li data-action="load" data-id="199">Opera Mobile 12.10</li><li data-action="load" data-id="202">Opera Mobile 37</li><li class="indent-0 title">Mobiles</li><li data-action="load" data-id="204">Samsung Internet 4.0</li><li data-action="load" data-id="205">Samsung Internet 5.0</li><li data-action="load" data-id="207">Samsung Internet 5.4</li><li data-action="load" data-id="208">Samsung Internet 6.2</li><li data-action="load" data-id="209">Samsung Internet 2.0</li><li data-action="load" data-id="210">Samsung Internet 3.0</li><li data-action="load" data-id="211">BlackBerry 10.3</li><li data-action="load" data-id="215">Chrome 51</li><li data-action="load" data-id="216">Chrome 52</li><li data-action="load" data-id="217">Edge 13</li><li data-action="load" data-id="218">Edge 14</li><li data-action="load" data-id="221">Firefox Mobile 47</li><li data-action="load" data-id="222">Firefox Mobile 48</li><li data-action="load" data-id="223">Internet Explorer 9 <em>(Windows Phone 7.5)</em></li><li data-action="load" data-id="224">Internet Explorer 10 <em>(Windows Phone 8)</em></li><li data-action="load" data-id="225">Internet Explorer 11 <em>(Windows Phone 8.1)</em></li><li data-action="load" data-id="230">iOS 7.0</li><li data-action="load" data-id="231">iOS 8.0</li><li data-action="load" data-id="232">iOS 9.0</li><li data-action="load" data-id="233">iOS 9.3</li><li data-action="load" data-id="234">iOS 10.0</li><li data-action="load" data-id="236">iOS 10.2</li><li data-action="load" data-id="237">iOS 10.3</li><li data-action="load" data-id="238">Amazon Silk</li><li data-action="load" data-id="240">Opera Mobile 12.10</li><li data-action="load" data-id="243">Opera Mobile 37</li><li data-action="load" data-id="244">Tizen 2.3</li><li class="indent-0 title">Gaming</li><li data-action="load" data-id="248">Xbox One <em>(Edge 15)</em></li><li data-action="load" data-id="249">Xbox One <em>(Edge 16)</em></li><li data-action="load" data-id="250">Xbox One <em>(Edge 13)</em></li><li data-action="load" data-id="251">Xbox One <em>(Edge 14)</em></li><li class="more" data-action="more">Show more</li></ul></div></div></div></td><td class="empty"><div><div class="name"></div><div class="popup popupPanel pointsRight hasSearch"><div class="toolbar"><div class="search"><input type="text" placeholder="Search..." value=""><button>Ã—</button></div></div><div class="scroll"><ul><li data-action="calculate">My browser</li><li data-action="custom">Enter unique id...</li><li class="indent-0 title">Desktop browsers</li><li data-action="load" data-id="15">Chrome 30</li><li data-action="load" data-id="25">Chrome 40</li><li data-action="load" data-id="30">Chrome 45</li><li data-action="load" data-id="35">Chrome 50</li><li data-action="load" data-id="36">Chrome 51</li><li data-action="load" data-id="37">Chrome 52</li><li data-action="load" data-id="38">Chrome 53</li><li data-action="load" data-id="39">Chrome 54</li><li data-action="load" data-id="40">Chrome 55</li><li data-action="load" data-id="41">Chrome 56</li><li data-action="load" data-id="42">Chrome 57</li><li data-action="load" data-id="43">Chrome 58</li><li data-action="load" data-id="44">Chrome 59</li><li data-action="load" data-id="45">Chrome 60</li><li data-action="load" data-id="46">Chrome 61</li><li data-action="load" data-id="47">Chrome 62</li><li data-action="load" data-id="48">Chrome 63</li><li data-action="load" data-id="49">Chrome 64</li><li data-action="load" data-id="50">Chrome 65</li><li data-action="load" data-id="51">Chrome 66</li><li data-action="load" data-id="52">Chrome 67</li><li data-action="load" data-id="53">Chrome 68</li><li data-action="load" data-id="54">Edge 12</li><li data-action="load" data-id="55">Edge 13</li><li data-action="load" data-id="56">Edge 14</li><li data-action="load" data-id="57">Edge 15</li><li data-action="load" data-id="58">Edge 16</li><li data-action="load" data-id="59">Edge 17</li><li data-action="load" data-id="60">Edge 18</li><li data-action="load" data-id="61">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="89">Firefox 30</li><li data-action="load" data-id="94">Firefox 35</li><li data-action="load" data-id="99">Firefox 40</li><li data-action="load" data-id="104">Firefox 45</li><li data-action="load" data-id="105">Firefox 46</li><li data-action="load" data-id="106">Firefox 47</li><li data-action="load" data-id="107">Firefox 48</li><li data-action="load" data-id="108">Firefox 49</li><li data-action="load" data-id="109">Firefox 50</li><li data-action="load" data-id="110">Firefox 51</li><li data-action="load" data-id="111">Firefox 52</li><li data-action="load" data-id="112">Firefox 53</li><li data-action="load" data-id="113">Firefox 54</li><li data-action="load" data-id="114">Firefox 55</li><li data-action="load" data-id="115">Firefox 56</li><li data-action="load" data-id="116">Firefox 57</li><li data-action="load" data-id="117">Firefox 58</li><li data-action="load" data-id="118">Firefox 59</li><li data-action="load" data-id="119">Firefox 60</li><li data-action="load" data-id="120">Firefox <em>(All flags enabled)</em></li><li data-action="load" data-id="124">Internet Explorer 9</li><li data-action="load" data-id="125">Internet Explorer 10</li><li data-action="load" data-id="126">Internet Explorer 11</li><li data-action="load" data-id="132">Opera 12.10</li><li data-action="load" data-id="147">Opera 30</li><li data-action="load" data-id="154">Opera 37</li><li data-action="load" data-id="155">Opera 45</li><li data-action="load" data-id="160">Safari 8.0</li><li data-action="load" data-id="161">Safari 9.0</li><li data-action="load" data-id="162">Safari 9.1</li><li data-action="load" data-id="163">Safari 10.0</li><li data-action="load" data-id="164">Safari 10.1</li><li data-action="load" data-id="165">Safari 11</li><li data-action="load" data-id="166">Safari 11.1</li><li data-action="load" data-id="167">Safari 11.2</li><li class="indent-0 title">Tablets</li><li data-action="load" data-id="172">Chrome 51</li><li data-action="load" data-id="173">Chrome 52</li><li data-action="load" data-id="174">Edge 12</li><li data-action="load" data-id="175">Edge 13</li><li data-action="load" data-id="176">Edge 14</li><li data-action="load" data-id="177">Edge 15</li><li data-action="load" data-id="178">Edge 16</li><li data-action="load" data-id="179">Edge 17</li><li data-action="load" data-id="180">Edge 18</li><li data-action="load" data-id="181">Edge <em>(All flags enabled)</em></li><li data-action="load" data-id="184">Firefox Mobile 47</li><li data-action="load" data-id="185">Firefox Mobile 48</li><li data-action="load" data-id="186">Internet Explorer 10</li><li data-action="load" data-id="187">Internet Explorer 11</li><li data-action="load" data-id="190">iOS 7.0</li><li data-action="load" data-id="191">iOS 8.0</li><li data-action="load" data-id="192">iOS 9.0</li><li data-action="load" data-id="193">iOS 9.3</li><li data-action="load" data-id="194">iOS 10.0</li><li data-action="load" data-id="196">iOS 10.2</li><li data-action="load" data-id="197">iOS 10.3</li><li data-action="load" data-id="198">Amazon Silk</li><li data-action="load" data-id="199">Opera Mobile 12.10</li><li data-action="load" data-id="202">Opera Mobile 37</li><li class="indent-0 title">Mobiles</li><li data-action="load" data-id="204">Samsung Internet 4.0</li><li data-action="load" data-id="205">Samsung Internet 5.0</li><li data-action="load" data-id="207">Samsung Internet 5.4</li><li data-action="load" data-id="208">Samsung Internet 6.2</li><li data-action="load" data-id="209">Samsung Internet 2.0</li><li data-action="load" data-id="210">Samsung Internet 3.0</li><li data-action="load" data-id="211">BlackBerry 10.3</li><li data-action="load" data-id="215">Chrome 51</li><li data-action="load" data-id="216">Chrome 52</li><li data-action="load" data-id="217">Edge 13</li><li data-action="load" data-id="218">Edge 14</li><li data-action="load" data-id="221">Firefox Mobile 47</li><li data-action="load" data-id="222">Firefox Mobile 48</li><li data-action="load" data-id="223">Internet Explorer 9 <em>(Windows Phone 7.5)</em></li><li data-action="load" data-id="224">Internet Explorer 10 <em>(Windows Phone 8)</em></li><li data-action="load" data-id="225">Internet Explorer 11 <em>(Windows Phone 8.1)</em></li><li data-action="load" data-id="230">iOS 7.0</li><li data-action="load" data-id="231">iOS 8.0</li><li data-action="load" data-id="232">iOS 9.0</li><li data-action="load" data-id="233">iOS 9.3</li><li data-action="load" data-id="234">iOS 10.0</li><li data-action="load" data-id="236">iOS 10.2</li><li data-action="load" data-id="237">iOS 10.3</li><li data-action="load" data-id="238">Amazon Silk</li><li data-action="load" data-id="240">Opera Mobile 12.10</li><li data-action="load" data-id="243">Opera Mobile 37</li><li data-action="load" data-id="244">Tizen 2.3</li><li class="indent-0 title">Gaming</li><li data-action="load" data-id="248">Xbox One <em>(Edge 15)</em></li><li data-action="load" data-id="249">Xbox One <em>(Edge 16)</em></li><li data-action="load" data-id="250">Xbox One <em>(Edge 13)</em></li><li data-action="load" data-id="251">Xbox One <em>(Edge 14)</em></li><li class="more" data-action="more">Show more</li></ul></div></div></div></td></tr></tbody></table><div><table id="table-parsing"><thead><tr id="head-parsing"><th>Parsing rules</th><td><div><div class="grade"><span>5</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-parsing.doctype"><th class="hasLink"><div><span><code>&lt;!DOCTYPE html&gt;</code> triggers standards mode</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-parsing.tokenizer"><th class="hasLink"><div><span>HTML5 tokenizer</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-parsing.tree"><th class="hasLink"><div><span>HTML5 tree building</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr></tr><tr id="row-parsing.svg"><th class="hasLink"><div><span>Parsing inline SVG</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-parsing.mathml"><th class="hasLink"><div><span>Parsing inline MathML</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-elements"><thead><tr id="head-elements"><th>Elements</th><td><div><div class="grade"><span>27</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-elements.dataset"><th class="hasLink"><div><span>Embedding custom non-visible data</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>New or modified elements</strong></th></tr><tr id="row-elements.section" class="hasChild hidden"><th><div><span>Section elements</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.section.section" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>section</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.section.nav" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>nav</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.section.article" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>article</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.section.aside" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>aside</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.section.header" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>header</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.section.footer" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>footer</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.grouping" class="hasChild hidden"><th><div><span>Grouping content elements</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.grouping.main" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>main</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.grouping.figure" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>figure</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.grouping.figcaption" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>figcaption</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.grouping.ol" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>reversed</code> attribute on the <code>ol</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.semantic" class="hasChild hidden"><th><div><span>Text-level semantic elements</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.semantic.download" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>download</code> attribute on the <code>a</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.semantic.ping" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ping</code> attribute on the <code>a</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.semantic.mark" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>mark</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.semantic.ruby" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ruby</code>, <code>rt</code> and <code>rp</code> elements</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.semantic.time" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>time</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.semantic.data" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>data</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.semantic.wbr" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>wbr</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.interactive" class="hasChild hidden"><th><div><span>Interactive elements</span></div></th><td class="used"><div><span class="partially">Partial</span> <span class="partial">â—‹</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.interactive.details" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>details</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.interactive.summary" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>summary</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.interactive.menutoolbar" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>menu</code> element of type <code>toolbar</code></span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.interactive.menucontext" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>menu</code> element of type <code>context</code></span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.interactive.dialog" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>dialog</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Global attributes or methods</strong></th></tr><tr id="row-elements.hidden"><th class="hasLink"><div><span><code>hidden</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.dynamic" class="hasChild hidden"><th><div><span>Dynamic markup insertion</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.dynamic.outerHTML" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>outerHTML</code> property</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-elements.dynamic.insertAdjacentHTML" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>insertAdjacentHTML</code> function</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-form"><thead><tr id="head-form"><th>Forms</th><td><div><div class="grade"><span>64</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><th colspan="6" class="details"><strong>Field types</strong></th></tr><tr id="row-form.text" class="hasChild hidden"><th><div><span><code>input type=text</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.text.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.text.selection" class="isChild" style="display: none;"><th class="hasLink"><div><span>Selection Direction</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.search" class="hasChild hidden"><th><div><span><code>input type=search</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.search.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.tel" class="hasChild hidden"><th><div><span><code>input type=tel</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.tel.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.url" class="hasChild hidden"><th><div><span><code>input type=url</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.url.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.url.validation" class="isChild" style="display: none;"><th class="hasLink"><div><span>Field validation</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.email" class="hasChild hidden"><th><div><span><code>input type=email</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.email.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.email.validation" class="isChild" style="display: none;"><th class="hasLink"><div><span>Field validation</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date" class="hasChild hidden"><th><div><span><code>input type=date</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.ui" class="isChild" style="display: none;"><th class="hasLink"><div><span>Custom user-interface</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.sanitization" class="isChild" style="display: none;"><th class="hasLink"><div><span>Value sanitization</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.min" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>min</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.max" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>max</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.step" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>step</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.stepDown" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepDown()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.stepUp" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepUp()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.valueAsDate" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsDate()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.date.valueAsNumber" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsNumber()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month" class="hasChild hidden"><th><div><span><code>input type=month</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.ui" class="isChild" style="display: none;"><th class="hasLink"><div><span>Custom user-interface</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.sanitization" class="isChild" style="display: none;"><th class="hasLink"><div><span>Value sanitization</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.min" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>min</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.max" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>max</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.step" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>step</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.stepDown" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepDown()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.stepUp" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepUp()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.valueAsDate" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsDate()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.month.valueAsNumber" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsNumber()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week" class="hasChild hidden"><th><div><span><code>input type=week</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.ui" class="isChild" style="display: none;"><th class="hasLink"><div><span>Custom user-interface</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.sanitization" class="isChild" style="display: none;"><th class="hasLink"><div><span>Value sanitization</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.min" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>min</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.max" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>max</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.step" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>step</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.stepDown" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepDown()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.stepUp" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepUp()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.valueAsDate" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsDate()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.week.valueAsNumber" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsNumber()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time" class="hasChild hidden"><th><div><span><code>input type=time</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.ui" class="isChild" style="display: none;"><th class="hasLink"><div><span>Custom user-interface</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.sanitization" class="isChild" style="display: none;"><th class="hasLink"><div><span>Value sanitization</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.min" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>min</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.max" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>max</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.step" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>step</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.stepDown" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepDown()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.stepUp" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepUp()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.valueAsDate" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsDate()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.time.valueAsNumber" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsNumber()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local" class="hasChild hidden"><th><div><span><code>input type=datetime-local</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local.ui" class="isChild" style="display: none;"><th class="hasLink"><div><span>Custom user-interface</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local.sanitization" class="isChild" style="display: none;"><th class="hasLink"><div><span>Value sanitization</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local.min" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>min</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local.max" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>max</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local.step" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>step</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local.stepDown" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepDown()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local.stepUp" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepUp()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datetime-local.valueAsNumber" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsNumber()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number" class="hasChild hidden"><th><div><span><code>input type=number</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.ui" class="isChild" style="display: none;"><th class="hasLink"><div><span>Custom user-interface</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.sanitization" class="isChild" style="display: none;"><th class="hasLink"><div><span>Value sanitization</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.validation" class="isChild" style="display: none;"><th class="hasLink"><div><span>Field validation</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.min" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>min</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.max" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>max</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.step" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>step</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.stepDown" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepDown()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.stepUp" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepUp()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.number.valueAsNumber" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsNumber()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range" class="hasChild hidden"><th><div><span><code>input type=range</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range.ui" class="isChild" style="display: none;"><th class="hasLink"><div><span>Custom user-interface</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range.sanitization" class="isChild" style="display: none;"><th class="hasLink"><div><span>Value sanitization</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range.min" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>min</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range.max" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>max</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range.step" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>step</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range.stepDown" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepDown()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range.stepUp" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>stepUp()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.range.valueAsNumber" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>valueAsNumber()</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.color" class="hasChild hidden"><th><div><span><code>input type=color</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.color.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.color.ui" class="isChild" style="display: none;"><th class="hasLink"><div><span>Custom user-interface</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.color.sanitization" class="isChild" style="display: none;"><th class="hasLink"><div><span>Value sanitization</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.checkbox" class="hasChild hidden"><th><div><span><code>input type=checkbox</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.checkbox.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.checkbox.indeterminate" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>indeterminate</code> property</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.image" class="hasChild hidden"><th><div><span><code>input type=image</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.image.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.image.width" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>width</code> property</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.image.height" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>height</code> property</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.file" class="hasChild hidden"><th><div><span><code>input type=file</code></span></div></th><td class="used"><div><span class="partially">Partial</span> <span class="partial">â—‹</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.file.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.file.files" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>files</code> property</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.file.directory" class="isChild" style="display: none;"><th class="hasLink"><div><span>Directory upload support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.textarea" class="hasChild hidden"><th><div><span><code>textarea</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.textarea.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.textarea.maxlength" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>maxlength</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.textarea.wrap" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>wrap</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.select" class="hasChild hidden"><th><div><span><code>select</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.select.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.select.required" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>required</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.fieldset" class="hasChild hidden"><th><div><span><code>fieldset</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.fieldset.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.fieldset.elements" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>elements</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.fieldset.disabled" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>disabled</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datalist" class="hasChild hidden"><th><div><span><code>datalist</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datalist.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.datalist.list" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>list</code> attribute for fields</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.output" class="hasChild hidden"><th><div><span><code>output</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.output.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.progress" class="hasChild hidden"><th><div><span><code>progress</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.progress.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.meter" class="hasChild hidden"><th><div><span><code>meter</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.meter.element" class="isChild" style="display: none;"><th class="hasLink"><div><span>Minimal element support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Fields</strong></th></tr><tr id="row-form.validation" class="hasChild hidden"><th><div><span>Field validation</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.validation.pattern" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>pattern</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.validation.required" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>required</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.association" class="hasChild hidden"><th><div><span>Association of controls and forms</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.association.control" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>control</code> property on labels</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.association.form" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>form</code> property on fields</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.association.formAction" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>formAction</code> property on fields</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.association.formEnctype" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>formEnctype</code> property on fields</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.association.formMethod" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>formMethod</code> property on fields</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.association.formNoValidate" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>formNoValidate</code> property on fields</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.association.formTarget" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>formTarget</code> property on fields</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.association.labels" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>labels</code> property on fields</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.other" class="hasChild hidden"><th><div><span>Other attributes</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.other.autofocus" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>autofocus</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.other.autocomplete" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>autocomplete</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.other.placeholder" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>placeholder</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.other.multiple" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>multiple</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.other.dirname" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>dirname</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.selectors" class="hasChild hidden"><th><div><span>CSS selectors</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.selectors.valid" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:valid</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.selectors.invalid" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:invalid</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.selectors.optional" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:optional</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.selectors.required" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:required</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.selectors.in-range" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:in-range</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.selectors.out-of-range" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:out-of-range</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.selectors.read-write" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:read-write</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.selectors.read-only" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:read-only</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.events" class="hasChild hidden"><th><div><span>Events</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.events.oninput" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>oninput</code> event</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.events.onchange" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>onchange</code> event</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.events.oninvalid" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>oninvalid</code> event</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Forms</strong></th></tr><tr id="row-form.formvalidation" class="hasChild hidden"><th><div><span>Form validation</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.formvalidation.checkValidity" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>checkValidity</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-form.formvalidation.noValidate" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>noValidate</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-components"><thead><tr id="head-components"><th>Web Components</th><td><div><div class="grade"><span>6</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-components.custom"><th class="hasLink"><div><span>Custom elements</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-components.shadowdom"><th class="hasLink"><div><span>Shadow DOM</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-components.template"><th class="hasLink"><div><span>HTML templates</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-components.imports"><th class="hasLink"><div><span>HTML imports</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-location"><thead><tr id="head-location"><th>Location and Orientation</th><td><div><div class="grade"><span>20</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-location.geolocation"><th class="hasLink"><div><span>Geolocation</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-location.orientation"><th class="hasLink"><div><span>Device Orientation</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-location.motion"><th class="hasLink"><div><span>Device Motion</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-output"><thead><tr id="head-output"><th>Output</th><td><div><div class="grade"><span>10</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-output.requestFullScreen"><th class="hasLink"><div><span>Full screen support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-output.notifications"><th class="hasLink"><div><span>Web Notifications</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-input"><thead><tr id="head-input"><th>Input</th><td><div><div class="grade"><span>10</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-input.getGamepads"><th class="hasLink"><div><span>Gamepad control</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-input.pointerevents"><th class="hasLink"><div><span>Pointer Events</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-input.pointerLock"><th class="hasLink"><div><span>Pointer Lock support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-video"><thead><tr id="head-video"><th>Video</th><td><div><div class="grade"><span>29</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-video.element"><th class="hasLink"><div><span><code>video</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.subtitle"><th class="hasLink"><div><span>Subtitles</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.audiotracks"><th class="hasLink"><div><span>Audio track selection</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.videotracks"><th class="hasLink"><div><span>Video track selection</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.poster"><th class="hasLink"><div><span>Poster images</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.canplaytype"><th class="hasLink"><div><span>Codec detection</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Video codecs</strong></th></tr><tr id="row-video.codecs.mp4.mpeg4"><th class="hasLink"><div><span>MPEG-4 ASP support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.codecs.mp4.h264"><th class="hasLink"><div><span>H.264 support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.codecs.mp4.h265"><th class="hasLink"><div><span>H.265 support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.codecs.ogg.theora"><th class="hasLink"><div><span>Ogg Theora support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.codecs.webm.vp8"><th class="hasLink"><div><span>WebM with VP8 support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-video.codecs.webm.vp9"><th class="hasLink"><div><span>WebM with VP9 support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-audio"><thead><tr id="head-audio"><th>Audio</th><td><div><div class="grade"><span>29</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-audio.element"><th class="hasLink"><div><span><code>audio</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.loop"><th class="hasLink"><div><span>Loop audio</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.preload"><th class="hasLink"><div><span>Preload in the background</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Advanced</strong></th></tr><tr id="row-audio.webaudio"><th class="hasLink"><div><span>Web Audio API</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.speechrecognition"><th class="hasLink"><div><span>Speech Recognition</span></div></th><td class="used yes"><div>Prefixed <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.speechsynthesis"><th class="hasLink"><div><span>Speech Synthesis</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Audio codecs</strong></th></tr><tr id="row-audio.codecs.pcm"><th class="hasLink"><div><span>PCM audio support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.codecs.mp3"><th class="hasLink"><div><span>MP3 support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.codecs.mp4.aac"><th class="hasLink"><div><span>AAC support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.codecs.mp4.ac3"><th class="hasLink"><div><span>Dolby Digital support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.codecs.mp4.ec3"><th class="hasLink"><div><span>Dolby Digital Plus support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.codecs.ogg.vorbis"><th class="hasLink"><div><span>Ogg Vorbis support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.codecs.ogg.opus"><th class="hasLink"><div><span>Ogg Opus support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.codecs.webm.vorbis"><th class="hasLink"><div><span>WebM with Vorbis support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-audio.codecs.webm.opus"><th class="hasLink"><div><span>WebM with Opus support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-streaming"><thead><tr id="head-streaming"><th>Streaming</th><td><div><div class="grade"><span>5</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-streaming.mediasource"><th class="hasLink"><div><span>Media Source extensions</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.drm"><th class="hasLink"><div><span>DRM support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Adaptive bit rate</strong></th></tr><tr id="row-streaming.type.dash"><th class="hasLink"><div><span>Dynamic Adaptive Streaming / MPEG-DASH</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.type.hls"><th class="hasLink"><div><span>HTTP Live Streaming / HLS</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Codecs</strong></th></tr><tr id="row-streaming.video.codecs" class="hasChild hidden"><th><div><span>Video codecs</span></div></th><td class="used"><div><span class="partially">Partial</span> <span class="partial">â—‹</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.video.codecs.mp4.h264" class="isChild" style="display: none;"><th class="hasLink"><div><span>MP4 with H.264 support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.video.codecs.mp4.h265" class="isChild" style="display: none;"><th class="hasLink"><div><span>MP4 with H.265 support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.video.codecs.ts.h264" class="isChild" style="display: none;"><th class="hasLink"><div><span>TS with H.264 support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.video.codecs.ts.h265" class="isChild" style="display: none;"><th class="hasLink"><div><span>TS with H.265 support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.video.codecs.webm.vp8" class="isChild" style="display: none;"><th class="hasLink"><div><span>WebM with VP8 support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.video.codecs.webm.vp9" class="isChild" style="display: none;"><th class="hasLink"><div><span>WebM with VP9 support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.audio.codecs" class="hasChild hidden"><th><div><span>Audio codecs</span></div></th><td class="used"><div><span class="partially">Partial</span> <span class="partial">â—‹</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.audio.codecs.mp4.aac" class="isChild" style="display: none;"><th class="hasLink"><div><span>MP4 with AAC support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.audio.codecs.mp4.ac3" class="isChild" style="display: none;"><th class="hasLink"><div><span>MP4 with Dolby Digital support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.audio.codecs.mp4.ec3" class="isChild" style="display: none;"><th class="hasLink"><div><span>MP4 with Dolby Digital Plus support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.audio.codecs.ts.aac" class="isChild" style="display: none;"><th class="hasLink"><div><span>TS with AAC support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.audio.codecs.ts.ac3" class="isChild" style="display: none;"><th class="hasLink"><div><span>TS with Dolby Digital support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.audio.codecs.ts.ec3" class="isChild" style="display: none;"><th class="hasLink"><div><span>TS with Dolby Digital Plus support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.audio.codecs.webm.vorbis" class="isChild" style="display: none;"><th class="hasLink"><div><span>WebM with Vorbis support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streaming.audio.codecs.webm.opus" class="isChild" style="display: none;"><th class="hasLink"><div><span>WebM with Opus support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-responsive"><thead><tr id="head-responsive"><th>Responsive images</th><td><div><div class="grade"><span>15</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-responsive.picture"><th class="hasLink"><div><span><code>picture</code> element</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-responsive.srcset"><th class="hasLink"><div><span><code>srcset</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-responsive.sizes"><th class="hasLink"><div><span><code>sizes</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-canvas"><thead><tr id="head-canvas"><th>2D Graphics</th><td><div><div class="grade"><span>24</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-canvas.context"><th class="hasLink"><div><span>Canvas 2D graphics</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Drawing primitives</strong></th></tr><tr id="row-canvas.text"><th class="hasLink"><div><span>Text support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-canvas.path"><th class="hasLink"><div><span>Path support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-canvas.ellipse"><th class="hasLink"><div><span>Ellipse support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-canvas.dashed"><th class="hasLink"><div><span>Dashed line support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-canvas.focusring"><th class="hasLink"><div><span>System focus ring support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Features</strong></th></tr><tr id="row-canvas.hittest"><th class="hasLink"><div><span>Hit testing support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-canvas.blending"><th class="hasLink"><div><span>Blending modes</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Image export formats</strong></th></tr><tr id="row-canvas.png"><th class="hasLink"><div><span>PNG support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-canvas.jpeg"><th class="hasLink"><div><span>JPEG support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-canvas.jpegxr"><th class="hasLink"><div><span>JPEG-XR support</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-canvas.webp"><th class="hasLink"><div><span>WebP support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-3d"><thead><tr id="head-3d"><th>3D and VR</th><td><div><div class="grade"><span>20</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><th colspan="6" class="details"><strong>3D Graphics</strong></th></tr><tr id="row-3d.webgl"><th class="hasLink"><div><span>WebGL</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-3d.webgl2"><th class="hasLink"><div><span>WebGL 2</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>VR Headset</strong></th></tr><tr id="row-3d.webvr"><th class="hasLink"><div><span>WebVR</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-animation"><thead><tr id="head-animation"><th>Animation</th><td><div><div class="grade"><span>8</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-animation.webanimation"><th class="hasLink"><div><span>Web Animations API</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-animation.requestAnimationFrame"><th class="hasLink"><div><span><code>window.requestAnimationFrame</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-communication"><thead><tr id="head-communication"><th>Communication</th><td><div><div class="grade"><span>40</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-communication.eventSource"><th class="hasLink"><div><span>Server-Sent Events</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-communication.beacon"><th class="hasLink"><div><span>Beacon</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-communication.fetch"><th class="hasLink"><div><span>Fetch</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>XMLHttpRequest Level 2</strong></th></tr><tr id="row-communication.xmlhttprequest2.upload"><th class="hasLink"><div><span>Upload files</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-communication.xmlhttprequest2.response" class="hasChild hidden"><th><div><span>Response type support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-communication.xmlhttprequest2.response.text" class="isChild" style="display: none;"><th class="hasLink"><div><span>Text response type</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-communication.xmlhttprequest2.response.document" class="isChild" style="display: none;"><th class="hasLink"><div><span>Document response type</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-communication.xmlhttprequest2.response.array" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ArrayBuffer</code> response type</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-communication.xmlhttprequest2.response.blob" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>Blob</code> response type</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>WebSocket</strong></th></tr><tr id="row-communication.websocket.basic"><th class="hasLink"><div><span>Basic socket communication</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-communication.websocket.binary"><th class="hasLink"><div><span><code>ArrayBuffer</code> and <code>Blob</code> support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-streams"><thead><tr id="head-streams"><th>Streams</th><td><div><div class="grade"><span>4</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-streams.readable"><th class="hasLink"><div><span>Readable streams</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-streams.writeable"><th class="hasLink"><div><span>Writable streams</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-rtc"><thead><tr id="head-rtc"><th>Peer To Peer</th><td><div><div class="grade"><span>40</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><th colspan="6" class="details"><strong>Connectivity</strong></th></tr><tr id="row-rtc.webrtc"><th class="hasLink"><div><span>WebRTC 1.0</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-rtc.objectrtc"><th class="hasLink"><div><span>ObjectRTC API for WebRTC</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-rtc.datachannel"><th class="hasLink"><div><span>Data channel</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Input</strong></th></tr><tr id="row-media.getUserMedia"><th class="hasLink"><div><span>Access the webcam</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-media.getDisplayMedia"><th class="hasLink"><div><span>Screen Capture</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-media.enumerateDevices"><th class="hasLink"><div><span>Enumerate devices</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Recording</strong></th></tr><tr id="row-rtc.recorder"><th class="hasLink"><div><span>Media Stream recorder</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-interaction"><thead><tr id="head-interaction"><th>User interaction</th><td><div><div class="grade"><span>18</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><th colspan="6" class="details"><strong>Drag and drop</strong></th></tr><tr id="row-interaction.dragdrop.attributes" class="hasChild hidden"><th><div><span>Attributes</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.attributes.draggable" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>draggable</code> attribute</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.attributes.dropzone" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>dropzone</code> attribute</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.events" class="hasChild hidden"><th><div><span>Events</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.events.ondrag" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ondrag</code> event</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.events.ondragstart" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ondragstart</code> event</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.events.ondragenter" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ondragenter</code> event</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.events.ondragover" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ondragover</code> event</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.events.ondragleave" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ondragleave</code> event</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.events.ondragend" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ondragend</code> event</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.dragdrop.events.ondrop" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>ondrop</code> event</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>HTML editing</strong></th></tr><tr id="row-interaction.editing.elements" class="hasChild hidden"><th><div><span>Editing elements</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.elements.contentEditable" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>contentEditable</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.elements.isContentEditable" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>isContentEditable</code> property</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.documents" class="hasChild hidden"><th><div><span>Editing documents</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.documents.designMode" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>designMode</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.selectors" class="hasChild hidden"><th><div><span>CSS selectors</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.selectors.read-write" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:read-write</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.selectors.read-only" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>:read-only</code> selector</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.apis" class="hasChild hidden"><th><div><span>APIs</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.apis.execCommand" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>execCommand</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.apis.queryCommandEnabled" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>queryCommandEnabled</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.apis.queryCommandIndeterm" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>queryCommandIndeterm</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.apis.queryCommandState" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>queryCommandState</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.apis.queryCommandSupported" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>queryCommandSupported</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-interaction.editing.apis.queryCommandValue" class="isChild" style="display: none;"><th class="hasLink"><div><span><code>queryCommandValue</code> method</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Clipboard</strong></th></tr><tr id="row-interaction.clipboard"><th class="hasLink"><div><span>Clipboard API and events</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Spellcheck</strong></th></tr><tr id="row-interaction.spellcheck"><th class="hasLink"><div><span><code>spellcheck</code> attribute</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-performance"><thead><tr id="head-performance"><th>Performance</th><td><div><div class="grade"><span>11</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><th colspan="6" class="details"><strong>Workers</strong></th></tr><tr id="row-performance.worker"><th class="hasLink"><div><span>Web Workers</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-performance.sharedWorker"><th class="hasLink"><div><span>Shared Workers</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Other</strong></th></tr><tr id="row-performance.requestIdleCallback"><th class="hasLink"><div><span><code>window.requestIdleCallback</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-security"><thead><tr id="head-security"><th>Security</th><td><div><div class="grade"><span>29</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-security.crypto"><th class="hasLink"><div><span>Web Cryptography API</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-security.csp10"><th class="hasLink"><div><span>Content Security Policy 1</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-security.csp11"><th class="hasLink"><div><span>Content Security Policy 2</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-security.cors"><th class="hasLink"><div><span>Cross-Origin Resource Sharing</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-security.integrity"><th class="hasLink"><div><span>Subresource Integrity</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-security.postMessage"><th class="hasLink"><div><span>Cross-document messaging</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Authentication</strong></th></tr><tr id="row-security.authentication"><th class="hasLink"><div><span>Web Authentication / FIDO 2</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-security.credential"><th class="hasLink"><div><span>Credential Management</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Iframes</strong></th></tr><tr id="row-security.sandbox"><th class="hasLink"><div><span>Sandboxed <code>iframe</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-security.srcdoc"><th class="hasLink"><div><span><code>iframe</code> with inline contents</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-payments"><thead><tr id="head-payments"><th>Payments</th><td><div><div class="grade"><span>5</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-payments.payments"><th class="hasLink"><div><span>Web Payments</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-offline"><thead><tr id="head-offline"><th>Web applications</th><td><div><div class="grade"><span>12</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><th colspan="6" class="details"><strong>Offline resources</strong></th></tr><tr id="row-offline.applicationCache"><th class="hasLink"><div><span>Application Cache</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-offline.serviceWorkers"><th class="hasLink"><div><span>Service Workers</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-offline.pushMessages"><th class="hasLink"><div><span>Push Messages</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Content and Scheme handlers</strong></th></tr><tr id="row-offline.registerProtocolHandler"><th class="hasLink"><div><span>Custom scheme handlers</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-offline.registerContentHandler"><th class="hasLink"><div><span>Custom content handlers</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-storage"><thead><tr id="head-storage"><th>Storage</th><td><div><div class="grade"><span>35</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><th colspan="6" class="details"><strong>Key-value storage</strong></th></tr><tr id="row-storage.sessionStorage"><th class="hasLink"><div><span>Session Storage</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-storage.localStorage"><th class="hasLink"><div><span>Local Storage</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Database storage</strong></th></tr><tr id="row-storage.indexedDB.basic"><th class="hasLink"><div><span>IndexedDB</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-storage.indexedDB.blob"><th class="hasLink"><div><span>Objectstore <code>Blob</code> support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-storage.indexedDB.arraybuffer"><th class="hasLink"><div><span>Objectstore <code>ArrayBuffer</code> support</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr></tr><tr id="row-storage.sqlDatabase"><th class="hasLink"><div><span>Web SQL Database</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-files"><thead><tr id="head-files"><th>Files</th><td><div><div class="grade"><span>15</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><th colspan="6" class="details"><strong>Reading files</strong></th></tr><tr id="row-files.fileReader"><th class="hasLink"><div><span>Basic support for reading files</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-files.fileReader.blob"><th class="hasLink"><div><span>Create a <code>Blob</code> from a file</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-files.fileReader.dataURL"><th class="hasLink"><div><span>Create a Data URL from a <code>Blob</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-files.fileReader.arraybuffer"><th class="hasLink"><div><span>Create an <code>ArrayBuffer</code> from a <code>Blob</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-files.fileReader.objectURL"><th class="hasLink"><div><span>Create a Blob URL from a <code>Blob</code></span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Accessing the file system</strong></th></tr><tr id="row-files.getFileSystem"><th class="hasLink"><div><span>FileSystem API</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr></tr><tr id="row-files.fileSystem"><th class="hasLink"><div><span>File API: Directories and System</span></div></th><td class="used yes"><div>Prefixed <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-scripting"><thead><tr id="head-scripting"><th>Scripting</th><td><div><div class="grade"><span>30</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><th colspan="6" class="details"><strong>Script execution</strong></th></tr><tr id="row-scripting.async"><th class="hasLink"><div><span>Asynchronous script execution</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.defer"><th class="hasLink"><div><span>Defered script execution</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.executionevents"><th class="hasLink"><div><span>Script execution events</span></div></th><td class="used no"><div>No <span class="ballot">âœ˜</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.onerror"><th class="hasLink"><div><span>Runtime script error reporting</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>ECMAScript 5</strong></th></tr><tr id="row-scripting.es5.json"><th class="hasLink"><div><span>JSON encoding and decoding</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>ECMAScript 6</strong></th></tr><tr id="row-scripting.es6.modules"><th class="hasLink"><div><span>Modules</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.es6.class"><th class="hasLink"><div><span>Classes</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.es6.arrow"><th class="hasLink"><div><span>Arrow functions</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.es6.promises"><th class="hasLink"><div><span>Promises</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.es6.template"><th class="hasLink"><div><span>Template strings</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.es6.datatypes"><th class="hasLink"><div><span>Typed arrays</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.es6.i18n"><th class="hasLink"><div><span>Internationalization</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>ECMAScript 7</strong></th></tr><tr id="row-scripting.es7.async"><th class="hasLink"><div><span>Async and Await</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr><th colspan="6" class="details"><strong>Other API's</strong></th></tr><tr id="row-scripting.base64"><th class="hasLink"><div><span>Base64 encoding and decoding</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.mutationObserver"><th class="hasLink"><div><span>Mutation Observer</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.url"><th class="hasLink"><div><span>URL API</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-scripting.encoding"><th class="hasLink"><div><span>Encoding API</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table id="table-other"><thead><tr id="head-other"><th>Other</th><td><div><div class="grade"><span>9</span></div></div></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr id="row-other.history"><th class="hasLink"><div><span>Session history</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-other.pagevisiblity"><th class="hasLink"><div><span>Page Visibility</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-other.getSelection"><th class="hasLink"><div><span>Text selection</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr><tr id="row-other.scrollIntoView"><th class="hasLink"><div><span>Scroll into view</span></div></th><td class="used yes"><div>Yes <span class="check">âœ”</span></div></td><td></td><td></td><td></td><td></td></tr></tbody></table></div></div>
+
+						<hr>
+
+						<h3>About these scores</h3>
+						<div class="text">
+							The data above is compiled from automatically submitted test results. It is possible your results
+							may differ slightly due to external factors such as settings and which operating system is used.
+							If you believe the data above is incorrect, or if you think we are missing an important browser
+							or device, please open a bug report at <a href="http://github.com/NielsLeenheer/html5test">Github</a>.
+						</div>
+					</div>
+
+					
+				</div>
+
+				<div class="footer">
+					<div>
+						<div class="copyright">
+							<p>
+								Created by Niels Leenheer.<br>
+								Please note that the HTML5 test is not affiliated with the W3C or the HTML5 working group.<br>
+								HTML5 Logo by <a href="http://www.w3.org/"><abbr title="World Wide Web Consortium">W3C</abbr></a>.
+								Browser detection by <a href="http://whichbrowser.net/">WhichBrowser</a>.
+							</p>
+
+							<div id="cloudvps">
+								<a href="http://www.cloudvps.nl/" target="_blank"><b>CloudVPS</b><br> High Availability<br> Cloud Servers</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+		
+	
+
+</body></html>
+------MultipartBoundary--SyCVWwrhRLjkKJQzxlkTPCevCTrdpa5QlgJYgCBrcm----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://html5test.com/css/main.css
+
+@charset "utf-8";
+
+@font-face { font-family: html5test; src: url("/fonts/html5test.eot?#iefix") format("embedded-opentype"), url("/fonts/html5test.woff") format("woff"), url("/fonts/html5test.ttf") format("truetype"), url("/fonts/html5test.svg#html5test") format("svg"); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: "League Gothic"; src: url("/fonts/leaguegothic-regular-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/leaguegothic-regular-webfont.woff") format("woff"), url("/fonts/leaguegothic-regular-webfont.ttf") format("truetype"), url("/fonts/leaguegothic-regular-webfont.svg#league_gothicregular") format("svg"); font-weight: normal; font-style: normal; }
+
+* { padding: 0px; margin: 0px; text-size-adjust: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+
+html { font-family: HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: 200; font-size: 1.1em; overflow-x: hidden; }
+
+body { background: rgb(217, 217, 217); }
+
+h2 { font-family: "League Gothic", Impact; font-weight: normal; font-size: 3.8em; line-height: 100%; text-transform: uppercase; color: rgb(0, 146, 191); }
+
+h3 { font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 1.05em; }
+
+th, h4, strong, b { font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }
+
+button { font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 0.75em; }
+
+input, textarea { font-family: HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }
+
+button, input, textarea { appearance: none; border-radius: 0px; box-sizing: border-box; }
+
+img { border: none; }
+
+table { border-collapse: collapse; width: 100%; }
+
+tbody tr:hover > td, tbody tr:hover > th { background-color: rgb(246, 246, 246); }
+
+tbody tr:hover th.details { }
+
+body > div#contentwrapper { transition: transform 0.4s ease 0s, filter 1.2s ease 0s, opacity 1.2s ease 0s; background: rgb(217, 217, 217); }
+
+body.indexVisible > div#contentwrapper { opacity: 0.7; transform: translateX(240px); filter: brightness(65%) saturate(15%); }
+
+@media (max-width: 680px) {
+  body > div#contentwrapper { margin: auto; }
+}
+
+.header { background: rgb(238, 238, 238); }
+
+.header h1 { font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: bold; font-size: 0.9em; text-align: left; text-transform: uppercase; color: rgb(102, 102, 102); padding: 8px 40px; margin: 0px auto; max-width: 900px; }
+
+.header h1 span { margin-right: 10px; }
+
+.header h1 span, .header h1 em { zoom: 1; display: inline-block; }
+
+.header h1 strong { font-family: html5test; font-weight: normal; font-size: 1.8em; color: rgb(236, 101, 52); -webkit-font-smoothing: antialiased; position: relative; top: 7px; }
+
+.header h1 em { font-style: normal; text-transform: lowercase; font-size: 1.15em; color: rgb(187, 187, 187); }
+
+.header div { margin: 10px auto 0px; overflow: hidden; max-width: 900px; padding: 0px 40px; }
+
+.header ul { list-style-type: none; margin-bottom: 8px; }
+
+.header ul.left { float: left; }
+
+.header ul.right { float: right; }
+
+.header ul li { display: block; float: left; margin: 0px 3px 0px 0px; padding: 0px 10px; line-height: 32px; color: rgb(255, 255, 255); font-size: 0.9em; text-transform: lowercase; background: rgb(170, 170, 170); }
+
+.header ul li.selected { background: rgb(0, 146, 191); }
+
+.header ul li:hover { box-shadow: rgba(0, 0, 0, 0.05) 0px 32px 0px inset; }
+
+.header ul li a { color: rgb(255, 255, 255); text-decoration: none; }
+
+@media (max-width: 680px) {
+  .header h1 { width: 400px; padding-left: 0px; padding-right: 0px; text-align: center; }
+  .header h1 em { font-size: 1em; }
+  .header div { width: auto; }
+  .header ul { width: 50%; padding: 0px !important; margin: 0px 0px 12px !important; }
+  .header ul li { line-height: 30px; margin-bottom: 3px; clear: left; }
+  .header ul.right { padding-left: 10px; }
+  .header ul.left li { float: right; clear: right; margin-right: 6px; }
+  .header ul.right li { margin-left: 6px; }
+}
+
+@media (max-width: 432px) {
+  .header h1 { width: auto; padding-left: 16px; padding-right: 16px; }
+  .header h1 em { font-size: 0.9em; }
+  .header ul { font-size: 0.85em; }
+  .header ul.left { padding-left: 16px; }
+  .header ul li { padding: 0px 8px; line-height: 28px; }
+}
+
+body > div#index { display: block; position: fixed; top: 0px; left: 0px; }
+
+body > div#index div#indexmenu { display: block; position: fixed; top: 0px; left: -240px; width: 220px; height: 100%; margin: -10px 0px 0px; padding: 20px 10px 10px; background-color: rgb(0, 146, 191); color: rgb(255, 255, 255); z-index: 1; overflow-y: auto; transition: transform 0.4s ease 0s; }
+
+body.indexVisible > div#index div#indexmenu { transform: translateX(240px); }
+
+body > div#index div#indexmenu li { display: block; float: none; background-color: rgb(0, 146, 191); font-size: 14px; font-weight: bold; margin-left: 10px; line-height: 150%; text-transform: lowercase; }
+
+body > div#index div#indexmenu li a { text-decoration: none; }
+
+body > div#index div#indexmenu li a::before { font-family: html5test; font-weight: normal; font-size: 1.2em; padding-right: 4px; vertical-align: middle; -webkit-font-smoothing: antialiased; }
+
+body > div#index div#indexmenu li.category { margin-top: 10px; }
+
+body > div#index div#indexmenu li.category.semantics a::before { content: "î€€"; }
+
+body > div#index div#indexmenu li.category.offlinestorage a::before { content: "î€†"; }
+
+body > div#index div#indexmenu li.category.deviceaccess a::before { content: "î€„"; }
+
+body > div#index div#indexmenu li.category.connectivity a::before { content: "î€"; }
+
+body > div#index div#indexmenu li.category.multimedia a::before { content: "î€…"; }
+
+body > div#index div#indexmenu li.category.graphicseffects a::before { content: "î€‚"; }
+
+body > div#index div#indexmenu li.category.performanceintegration a::before { content: "î€‡"; }
+
+body > div#index div#indexmenu li a { display: block; color: rgb(255, 255, 255); }
+
+body > div#index div#indexmenu li ul li { background-color: rgb(0, 146, 191); line-height: 160%; font-size: 12px; font-weight: normal; margin-left: 20px; text-transform: none; }
+
+body > div#index div#indexmenu li ul li:first-child { margin-top: 5px; }
+
+body > div#index div#indexmenu li ul li a { display: block; color: rgb(255, 255, 255); }
+
+body > div#index div#indexmenu li ul li a::before { content: "" !important; }
+
+body > div#index button#indexbutton { position: fixed; top: 10px; left: 0px; width: 36px; height: 40px; font-family: html5test; font-size: 1.4em; color: rgb(153, 153, 153); background-color: transparent; border: none; outline: none; z-index: 100000; cursor: pointer; transition: transform 0.4s ease 0s, color 0.5s ease 0s, text-indent 0.5s ease 0s; }
+
+body.indexVisible > div#index button#indexbutton { transform: translateX(240px); color: rgb(238, 238, 238); }
+
+@media (max-width: 1010px) {
+  body > div#index button#indexbutton { text-indent: -28px; }
+}
+
+@media (max-width: 680px) {
+  body > div#index button#indexbutton { text-indent: 0px; }
+}
+
+@media (max-width: 488px) {
+  body > div#index button#indexbutton { text-indent: -28px; }
+}
+
+.footer { background: rgb(238, 238, 238); margin-top: 30px; padding: 20px; overflow: hidden; min-height: 43px; }
+
+.footer > div { position: relative; padding-right: 300px; }
+
+.footer > div .copyright { font-size: 0.75em; color: rgb(119, 119, 119); }
+
+.footer > div .copyright a { color: rgb(136, 136, 136); }
+
+.footer > div .copyright p { margin-bottom: 0.8em; }
+
+#cloudvps a { position: absolute; top: 0px; right: 0px; border-left: 1px solid rgb(204, 204, 204); display: block; background: url("/images/sponsors/cloudvps.png") 10px top / 59px 43px no-repeat; padding-top: 0px; padding-left: 80px; text-decoration: none; color: rgb(4, 68, 109); font-size: 90%; min-height: 43px; }
+
+#cloudvps a b { font-size: 110%; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  #cloudvps a { background-image: url("/images/sponsors/cloudvps@2x.png"); background-size: 59px 43px; }
+}
+
+@media (max-width: 680px) {
+  .footer > div { padding-right: 0px; padding-bottom: 60px; }
+  #cloudvps a { top: auto; left: 0px; border-left: none; border-top: 1px solid rgb(204, 204, 204); padding-top: 12px; padding-left: 70px; background-position: left 12px; }
+}
+
+.page { margin: 2.5em auto 0px; max-width: 900px; padding: 0px 40px; }
+
+.page > .column { position: relative; zoom: 1; display: inline-block; vertical-align: top; }
+
+.page > .column .left, .page > .column .right { width: 50%; zoom: 1; display: inline-block; vertical-align: top; box-sizing: border-box; }
+
+.page > .column .left > div { padding-right: 10px; }
+
+.page > .column .right > div { padding-left: 10px; }
+
+@media (max-width: 680px) {
+  .page { width: 100%; text-align: center; padding: 0px; }
+  .page > .column { width: auto; max-width: 400px; overflow: hidden; text-align: left; }
+  .page > .column .left, .page > .column .right { width: 100%; }
+  .page > .column .left > div, .page > .column .right > div { padding: 0px; }
+}
+
+@media (max-width: 432px) {
+  .page > .column { width: 90% !important; }
+}
+
+.message { background: rgb(246, 246, 246); color: rgb(0, 0, 0); font-size: 0.75em; line-height: 165%; margin: 0px; padding: 10px; }
+
+.paper { position: relative; background: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 0.75em; line-height: 165%; margin-bottom: 60px; }
+
+.paper.hasNavigation { top: 32px; margin-bottom: 52px; }
+
+.paper > ul.navigation { position: absolute; top: -32px; margin: 0px; overflow: hidden; list-style-type: none; width: 100%; }
+
+.paper > ul.navigation li { display: block; float: left; margin: 0px 3px 0px 0px; padding: 0px 10px; line-height: 32px; color: rgb(255, 255, 255); font-size: 1.1em; text-transform: lowercase; background: rgb(170, 170, 170); }
+
+.paper > ul.navigation li.more { float: right; margin: 0px 0px 0px 3px; }
+
+.paper > ul.navigation li.selected { background: rgb(255, 255, 255); }
+
+.paper > ul.navigation li a { color: rgb(255, 255, 255); text-decoration: none; }
+
+.paper > ul.navigation li.selected a { color: rgb(0, 0, 0); }
+
+.paper > div { padding: 20px; }
+
+.paper > div h2 { clear: both; margin-bottom: 10px; }
+
+.paper > div h3 { margin: 1em 0px 0.5em; }
+
+.paper > div p { margin: 0px 0px 0.5em; }
+
+.paper > div p + h3 { margin-top: 1.5em; }
+
+.paper > div hr { clear: both; margin: 20px -20px; border-right: none; border-bottom: none; border-left: none; border-image: initial; border-top: 8px solid rgb(217, 217, 217); }
+
+.paper > div .text { column-count: 3; column-gap: 16px; }
+
+.paper > div .text.no-columns { column-count: 1 !important; }
+
+.break-2 { break-before: column; }
+
+.break-3 { break-before: column; }
+
+@media (max-width: 767px) {
+  .paper > div .text { column-count: 2; }
+  .break-3 { break-before: auto; margin-top: 1.5em !important; }
+}
+
+@media (max-width: 680px) {
+  .paper > div .text { column-count: 1; }
+  .break-2 { break-before: auto; margin-top: 1.5em !important; }
+  .paper ul.navigation li span { display: none; }
+}
+
+.paper > div .text a { color: rgb(0, 146, 191); text-decoration: none; }
+
+.paper > div .text a:hover { color: rgb(0, 146, 191); text-decoration: underline; }
+
+.paper > div .text a.button { color: inherit; }
+
+.paper > div .text a.button:hover { text-decoration: inherit; }
+
+.intro { font-size: 1.05em; line-height: 150%; font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: bold; color: rgb(85, 85, 85); }
+
+.paper > div .text dl { }
+
+.paper > div .text dl dt { margin: 1em 0px 0px; }
+
+.paper > div .text dl dd { font-size: 0.9em; }
+
+.break { break-before: column; }
+
+.text table { margin: 1em 0px; }
+
+.text table th, .text table td { font-weight: 200; text-align: left; border-top: 1px solid rgb(221, 221, 221); padding: 4px 10px; vertical-align: top; font-size: 1em; }
+
+.text table thead th { text-align: left; padding-left: 10px; padding-bottom: 10px; border-top: none; font-weight: bold; position: relative; }
+
+.text table thead th::after { display: block; position: absolute; content: ""; width: 0px; height: 10px; border-right: 1px solid rgb(221, 221, 221); left: 0px; bottom: 0px; }
+
+.text table thead th:last-child::before { display: block; position: absolute; content: ""; width: 10px; height: 10px; border-right: 1px solid rgb(221, 221, 221); right: 0px; bottom: 0px; }
+
+.text ul { list-style-type: square; padding: 0px 0px 0px 20px; }
+
+.popupPanel { position: absolute; background: rgb(255, 255, 255); z-index: 1; border: 4px solid rgb(170, 170, 170); width: auto !important; overflow: visible !important; }
+
+.popupPanel.pointsLeft::before, .popupPanel.pointsRight::before { content: ""; display: block; position: absolute; width: 0px; height: 0px; top: -13px; left: 7px; z-index: 10; border-bottom: 11px solid rgb(170, 170, 170); border-right: 11px solid transparent; border-left: 11px solid transparent; }
+
+.popupPanel.pointsLeft::after, .popupPanel.pointsRight::after { content: ""; display: block; position: absolute; width: 0px; height: 0px; top: -7px; left: 10px; z-index: 11; border-bottom: 8px solid rgb(255, 255, 255); border-right: 8px solid transparent; border-left: 8px solid transparent; }
+
+.popupPanel.pointsRight::before { left: auto; right: 7px; }
+
+.popupPanel.pointsRight::after { left: auto; right: 10px; }
+
+.popupPanel.pointsLeft.hasSearch::after, .popupPanel.pointsRight.hasSearch::after { border-bottom: 8px solid rgb(246, 246, 246); }
+
+.search { position: relative; width: 100%; height: 40px; line-height: 40px; background: rgb(238, 238, 238); }
+
+.filters .search { width: 200px; }
+
+.search input { position: absolute; top: 0px; left: 0px; right: 0px; height: 40px; padding-left: 40px; width: 100%; font-family: HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 1em; border: none; background: none; }
+
+.search::after { content: "î€"; display: block; position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; font-family: html5test; text-align: center; font-size: 1.2em; color: rgb(102, 102, 102); -webkit-font-smoothing: antialiased; }
+
+.search button { position: absolute; top: 4px; right: 4px; height: 32px; width: 32px; font-size: 1.2em; color: rgb(187, 187, 187); background: none; border: none; cursor: pointer; }
+
+#searchResults { width: 100%; }
+
+#searchBusy #loading { min-height: inherit; height: 0px; overflow: hidden; transition: all 0.3s ease-in-out 0s; }
+
+#searchBusy.visible #loading { height: 300px; }
+
+#searchBusy #loading div { font-size: 22px !important; }
+
+.popupPanel .toolbar { background: none; margin: 0px; padding: 0px; }
+
+.popupPanel .search { line-height: 36px; border-bottom: 4px solid rgb(238, 238, 238); background: rgb(246, 246, 246); height: 36px !important; }
+
+.popupPanel .search input { height: 36px; padding-left: 30px; font-size: 0.9em; }
+
+.popupPanel .search::after { width: 30px; height: 36px; font-size: 1em; }
+
+.popupPanel .search button { height: 28px; width: 22px; font-size: 1em; }
+
+.popupPanel .less, .popupPanel .more { margin: 32px 0px -10px; line-height: 32px; height: 32px; border-top: 4px solid rgb(238, 238, 238); background: rgb(246, 246, 246); text-align: center; text-transform: uppercase; font-size: 0.75em; }
+
+.toggle { display: block; cursor: pointer; position: relative; width: 200px; height: 40px; line-height: 40px; text-align: center; background: rgb(238, 238, 238); }
+
+.toggle .part { position: absolute; top: 0px; left: 0px; bottom: 0px; width: 100px; transition: all 0.3s ease-in-out 0s; }
+
+.toggle .first { color: rgb(255, 255, 255); }
+
+.toggle.selected .first { color: inherit; }
+
+.toggle .second { left: 100px; }
+
+.toggle.selected .second { color: rgb(255, 255, 255); }
+
+.toggle .background { position: absolute; top: 0px; left: 0px; bottom: 0px; width: 100px; background: rgb(0, 146, 191); transition: all 0.3s ease-in-out 0s; }
+
+.toggle.selected .background { left: 100px; }
+
+.button { display: block; box-sizing: border-box; width: 100%; border: none; padding: 10px 0px; margin: 0px; cursor: pointer; vertical-align: top; font-family: HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 1em; text-decoration: none; text-align: left; }
+
+.button:hover { box-shadow: rgba(0, 0, 0, 0.05) 0px 50px 0px inset; }
+
+.button > span { margin: 0px 2px 0px 10px; vertical-align: middle; white-space: nowrap; }
+
+.button > span::before { font-family: html5test; font-weight: normal; font-size: 1.4em; margin-right: 6px; vertical-align: top; -webkit-font-smoothing: antialiased; }
+
+.button.website { background: rgb(68, 68, 68); color: rgb(255, 255, 255); }
+
+.button.website > span::before { content: "î€•"; }
+
+.button.followme { background: rgb(0, 146, 191); color: rgb(255, 255, 255); }
+
+.button.followme > span::before { content: "î€‹"; }
+
+.button.donate { background: rgb(255, 213, 0); color: rgb(0, 0, 0); }
+
+.button.donate > span::before { content: "î€Œ"; }
+
+.button.developed { background: rgb(204, 204, 204); color: rgb(0, 0, 0); }
+
+.button.developed > span::before { content: "î€ˆ"; }
+
+.button.compare { background: rgb(51, 175, 51); color: rgb(255, 255, 255); }
+
+.button.compare > span::before { content: "âš"; }
+
+.button.save { background: rgb(0, 146, 191); color: rgb(255, 255, 255); }
+
+.button.save > span::before { content: "â˜"; }
+
+.button.latest { background: rgb(0, 146, 191); color: rgb(255, 255, 255); }
+
+.button.latest > span::before { content: "î€"; }
+
+.button.share { background: rgb(236, 101, 52); color: rgb(255, 255, 255); }
+
+.button.share > span::before { content: "î€‰"; }
+
+.button.contact { background: rgb(236, 101, 52); color: rgb(255, 255, 255); }
+
+.button.contact > span::before { content: "â˜"; }
+
+.button.schedule { background: rgb(236, 101, 52); color: rgb(255, 255, 255); }
+
+.button.schedule > span::before { content: "ï³"; }
+
+.button.labs { background: rgb(51, 175, 51); color: rgb(255, 255, 255); }
+
+.button.labs > span::before { content: "â˜Ÿ"; }
+
+.button.info { background: rgb(51, 175, 51); color: rgb(255, 255, 255); }
+
+.button.info > span::before { content: "î€•"; }
+
+.detailsTable .check, .detailsTable .ballot, .detailsTable .buggy, .detailsTable .partial, .detailsTable .unknown { position: relative; display: inline-block; top: -1px; color: rgb(136, 136, 136); font-size: 1.2em; margin: 0px 0px 0px 6px; width: 1em; text-align: center; vertical-align: middle; }
+
+.detailsTable .check { font-family: html5test; font-weight: normal; color: rgb(28, 140, 29); }
+
+.detailsTable .ballot { font-family: html5test; font-weight: normal; color: rgb(133, 51, 51); }
+
+.detailsTable .buggy { font-family: html5test; font-weight: normal; color: rgb(236, 101, 52); }
+
+.detailsTable .partial { font-family: html5test; font-weight: normal; }
+
+.detailsTable .partially { color: rgb(136, 136, 136); }
+
+@keyframes loader { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@-webkit-keyframes loader { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#loading { min-height: 500px; position: relative; }
+
+#loading div { display: block; position: absolute; top: 100px; left: 50%; width: 100px; height: 100px; margin-left: -50px; font-family: html5test; font-size: 100px; line-height: 100px; text-align: center; color: rgb(187, 187, 187); animation: 1s steps(8) 0s infinite normal none running loader; }
+
+#score { z-index: 10; }
+
+.pointsPanel { background: rgb(255, 255, 255); min-height: 145px; padding: 0px 155px 0px 0px; }
+
+.saved .pointsPanel { padding: 0px; }
+
+.pointsPanel h2 { font-size: 2.3em; color: rgb(170, 170, 170); text-align: center; line-height: 40px; margin: 0px; }
+
+.pointsPanel h2 > strong, .pointsPanel h2 > span { display: inline-block; vertical-align: middle; transform: translateY(6px); }
+
+.pointsPanel h2 > strong { font-family: "League Gothic", Impact; font-weight: normal; font-size: 3.8em; color: rgb(0, 146, 191); line-height: 145px; margin: 0px 10px; }
+
+.pointsPanel hr { border-right: none; border-bottom: none; border-left: none; border-image: initial; border-top: 8px solid rgb(217, 217, 217); }
+
+.blocked { background: rgb(236, 101, 52); padding: 20px; margin-bottom: 40px; }
+
+.blocked h2 { color: rgb(255, 255, 255); font-size: 2.6em; }
+
+.blocked p { color: rgb(255, 255, 255); font-size: 0.8em; line-height: 150%; }
+
+.blocked button { margin-top: 10px; background: rgba(0, 0, 0, 0.3); color: rgb(255, 255, 255); border: none; padding: 10px; }
+
+.wrapper { margin: 8px 0px 20px; position: relative; }
+
+@media (max-width: 900px) {
+  .pointsPanel { font-size: 90%; }
+  .blocked { font-size: 90%; }
+}
+
+@media (max-width: 820px) {
+  .pointsPanel { font-size: 80%; }
+}
+
+@media (max-width: 767px) {
+  .pointsPanel { font-size: 100%; }
+  .pointsPanel h2 { padding: 10px 0px; }
+  .pointsPanel h2 > span, .pointsPanel h2 > strong { display: block; }
+}
+
+@media (max-width: 680px) {
+  .pointsPanel { padding: 0px; }
+  .blocked { margin-left: 20px; margin-right: 20px; }
+}
+
+.popupPanel.feedback { width: 210px; margin-top: 10px; margin-left: -130px; padding: 10px; text-align: left; color: rgb(0, 0, 0); cursor: auto; font-size: 1.1em; }
+
+.popupPanel.feedback h3 { margin: 0px; }
+
+.popupPanel.feedback textarea { width: 100%; height: 160px; padding: 10px; margin: 10px 0px; font-size: 1em; border: none; background: rgb(238, 238, 238); }
+
+.popupPanel.feedback button { width: 100%; border: none; background: rgb(51, 175, 51); text-align: left; font-size: 1em; color: rgb(255, 255, 255); padding: 10px; cursor: pointer; }
+
+.popupPanel.feedback button span { font-family: html5test; font-size: 1.2em; margin-right: 4px; }
+
+.popupPanel.save { width: 210px; margin-top: 21px; padding: 20px 10px 10px; text-align: center; color: rgb(0, 0, 0); cursor: auto; }
+
+.popupPanel.save a { color: rgb(0, 146, 191); font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: bold; text-decoration: none; }
+
+.popupPanel.save a:hover { text-decoration: underline; }
+
+.popupPanel.save p { margin-bottom: 1em; }
+
+.popupPanel.save code { font-size: 1.5em; }
+
+.popupPanel.share { margin-top: 21px; width: 210px !important; }
+
+#share { display: block; height: 94px; position: relative; overflow: hidden; }
+
+#share #twitter { position: absolute; top: 15px; left: 15px; }
+
+#share #facebook { position: absolute; top: 15px; left: 82px; }
+
+#share #google { position: absolute; top: 15px; left: 141px; }
+
+.wrapper .buttons { font-size: 0.75em; }
+
+.wrapper .buttons > * { width: 25%; display: inline-block; overflow: hidden; }
+
+@media (max-width: 680px) {
+  .wrapper .buttons > * { width: 50%; }
+}
+
+@media (max-width: 280px) {
+  .wrapper .buttons > * { width: 100%; }
+  .wrapper .buttons .donate { display: none; }
+}
+
+.useragent { position: relative; box-sizing: border-box; border-top: 8px solid rgb(217, 217, 217); display: block; text-align: left; text-transform: none; font-size: 0.8em; color: rgb(34, 34, 34); padding: 10px 100px 10px 10px; background: rgb(238, 238, 238); }
+
+.saved .useragent { position: relative; left: auto; border-left: 0px; padding: 0px; cursor: pointer; }
+
+.saved .useragent p { padding: 10px; }
+
+.useragent > span { position: absolute; right: 10px; top: 8px; font-size: 0.85em; color: rgb(170, 170, 170); line-height: 20px; }
+
+.useragent > span a { font-family: html5test; font-weight: normal; font-size: 1.6em; padding: 0px 0px 0px 6px; cursor: pointer; transition: all 0.3s ease-in-out 0s; }
+
+.useragent > span a.correct:hover { color: rgb(28, 140, 29); }
+
+.useragent > span a.wrong:hover { color: rgb(133, 51, 51); }
+
+@media (max-width: 680px) {
+  .useragent { position: relative; border-left: 0px; font-size: 0.75em; min-height: 1.7em; }
+}
+
+.useragent .expandWidget { position: absolute; top: 0px; right: 0px; width: 38px; height: 38px; line-height: 38px; text-align: center; color: rgb(136, 136, 136); transition: all 0.3s ease-in-out 0s; }
+
+.useragent .expandedPanel { border-top: 4px solid rgb(217, 217, 217); margin: 0px; box-sizing: border-box; overflow: hidden; height: 0px; transition: all 0.3s ease-in-out 0s; }
+
+.useragent.expanded .expandedPanel { height: 100px; }
+
+.useragent.expanded .expandWidget { transform: rotate(180deg); }
+
+.useragent table { margin: 10px; width: auto; }
+
+.useragent table th { padding-right: 16px; white-space: nowrap; font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }
+
+.useragent table td, .useragent table th { vertical-align: top; font-size: 0.9em; padding-bottom: 5px; text-align: left; }
+
+.resultsTable { margin-bottom: 40px; }
+
+.resultsTable .category { border-top: 1px solid rgba(0, 0, 0, 0); }
+
+.resultsTable .category h2 { font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; text-transform: lowercase; }
+
+.resultsTable .category h2::before { font-family: html5test; font-weight: normal; font-size: 1.2em; padding-right: 4px; vertical-align: middle; -webkit-font-smoothing: antialiased; }
+
+.resultsTable .category.semantics h2::before { content: "î€€"; }
+
+.resultsTable .category.offlinestorage h2::before { content: "î€†"; }
+
+.resultsTable .category.deviceaccess h2::before { content: "î€„"; }
+
+.resultsTable .category.connectivity h2::before { content: "î€"; }
+
+.resultsTable .category.multimedia h2::before { content: "î€…"; }
+
+.resultsTable .category.graphicseffects h2::before { content: "î€‚"; }
+
+.resultsTable .category.performanceintegration h2::before { content: "î€‡"; }
+
+.resultsTable table { border-spacing: 0px; position: relative; margin: 0px 0px 24px; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border-collapse: separate; }
+
+.resultsTable table thead tr { color: rgb(255, 255, 255); background: rgb(0, 146, 191); }
+
+.resultsTable table thead tr > * { border-bottom: 8px solid rgb(217, 217, 217); }
+
+.resultsTable table thead th { position: relative; padding: 0px 10px; height: 44px; font-family: "League Gothic", Impact; font-weight: normal; font-size: 2em; text-align: left; }
+
+.resultsTable table thead td { position: relative; padding: 0px 10px; width: 44px; text-align: right; }
+
+.resultsTable table thead th div.grade { position: absolute; top: 0px; right: 0px; }
+
+.resultsTable table thead th div > span { display: block; height: 100%; line-height: 44px; padding: 0px 10px; font-family: "League Gothic", Impact; font-size: 0.8em; }
+
+.resultsTable table thead th span.none { background-color: rgb(133, 51, 51); }
+
+.resultsTable table thead th span.badly { background-color: rgb(214, 133, 51); }
+
+.resultsTable table thead th span.reasonable { background-color: rgb(231, 195, 51); }
+
+.resultsTable table thead th span.good { background-color: rgb(136, 176, 56); }
+
+.resultsTable table thead th span.great { background-color: rgb(51, 175, 51); }
+
+.resultsTable table tbody th { padding: 5px 10px; font-size: 0.75em; font-weight: normal; text-align: left; position: relative; }
+
+.resultsTable table tbody td { padding: 5px 10px; font-size: 0.75em; text-align: right; white-space: nowrap; }
+
+.resultsTable table tbody tr:first-child th, .resultsTable table tbody tr:first-child td { padding-top: 8px; }
+
+.resultsTable table tbody tr:last-child th, .resultsTable table tbody tr:last-child td { padding-bottom: 8px; }
+
+.resultsTable table tbody th code { font-size: 12px; }
+
+.resultsTable table th.details { padding: 16px 40px 5px 10px; }
+
+.resultsTable table tr:first-child th.details { padding-top: 8px; }
+
+.resultsTable table th.details em { color: rgb(102, 102, 102); font-size: 90%; }
+
+.resultsTable table tr.hasChild th { cursor: pointer; padding-left: 28px; }
+
+.resultsTable table tr th.hasLink:hover { cursor: pointer; }
+
+.resultsTable table tr th.hasLink:hover > div > span { text-decoration: underline; }
+
+.resultsTable table tr.hasChild th > * { position: relative; }
+
+.resultsTable table tr.hasChild th > ::before { position: absolute; top: 2px; left: -18px; display: block; font-family: html5test; font-size: 11px; content: "â–¼"; color: rgb(136, 136, 136); transition: transform 200ms ease 0s; }
+
+.resultsTable table tr.hasChild.hidden th > ::before { transform: rotate(-90deg) translateX(-1px); }
+
+.resultsTable table tr.hasChild th, .resultsTable table tr.hasChild td { border-bottom: 1px solid rgb(204, 204, 204); }
+
+.resultsTable table tr.hasChild.hidden th, .resultsTable table tr.hasChild.hidden td { border-bottom: none; }
+
+.resultsTable table tr.isChild { display: none; }
+
+.resultsTable table tr.isChild th div, .resultsTable table tr.isChild td div { }
+
+.resultsTable table tr.isChild.expanded { display: table-row; }
+
+.resultsTable table tr.isChild.expanded th div, .resultsTable table tr.isChild.expanded td div { }
+
+.resultsTable table tr.isChild th { background: rgb(246, 246, 246); font-size: 0.7em; padding: 5px 10px 3px 28px; }
+
+.resultsTable table tr.isChild td { background: rgb(246, 246, 246); font-size: 0.7em; padding: 5px 10px; }
+
+.resultsTable table tr.isChild th code { font-size: 11px; }
+
+.resultsTable h2 { font-size: 1.2em; font-weight: bold; color: rgb(170, 170, 170); margin: 2em 0px 0.5em; }
+
+.resultsTable a { color: rgb(0, 0, 0); text-decoration: none; }
+
+.resultsTable a:hover { text-decoration: underline; }
+
+.linksPanel { max-width: 120%; min-width: 291px; padding: 4px 0px; margin-top: 9px; margin-left: -2px; }
+
+.linksPanel.popupPanel.pointsLeft::after, .linksPanel.popupPanel.pointsRight::after { border-bottom: 8px solid rgb(246, 246, 246); }
+
+.linksPanel .info { position: relative; border-bottom: 4px solid rgb(238, 238, 238); background: rgb(246, 246, 246); top: -4px; font-size: 0.75em; height: 66px; margin-bottom: 6px; line-height: 15px; }
+
+.linksPanel .info .column { position: absolute; width: 33%; height: 66px; top: 0px; cursor: default; box-sizing: border-box; border-left: 2px solid rgb(238, 238, 238); border-right: 2px solid rgb(238, 238, 238); }
+
+.linksPanel .info .left { left: 0px; border-left: none; }
+
+.linksPanel .info .middle { left: 33%; width: 34%; }
+
+.linksPanel .info .right { left: 67%; border-right: none; }
+
+.linksPanel .info .column span { color: rgb(0, 0, 0); text-decoration: none; }
+
+.linksPanel .info .column a { display: block; width: 100%; height: 66px; color: rgb(0, 0, 0); text-decoration: none; }
+
+.linksPanel .info .column a:hover { background: rgb(238, 238, 238); }
+
+.linksPanel .info .column span { position: absolute; left: 0px; width: 100%; top: 46px; text-align: center; text-transform: uppercase; text-decoration: none; font-size: 0.9em; font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }
+
+.linksPanel .info .left h2 { text-align: center; padding-top: 0.3em; }
+
+.linksPanel .info .middle em { position: absolute; top: 10px; left: 50%; margin-left: -16px; display: block; width: 32px; height: 32px; color: rgb(255, 255, 255); text-align: center; line-height: 34px; font-style: normal; font-family: "League Gothic", Impact; font-weight: normal; font-size: 2.5em; z-index: 2; }
+
+.linksPanel .info .middle em::before { position: absolute; top: 0px; display: block; content: ""; width: 0px; height: 0px; border: 16px solid rgb(0, 146, 191); border-radius: 16px; z-index: -1; }
+
+.linksPanel .info .middle.none em::before { border: 16px solid rgb(170, 170, 170); }
+
+.linksPanel .info .middle.none em { font-family: html5test; font-size: 1.5em; }
+
+.linksPanel .info .status::after { position: absolute; top: 19px; width: 100%; text-align: center; display: block; content: ""; font-family: html5test; font-size: 29px; }
+
+.linksPanel .info .status.recommendation::after { content: "î˜€"; color: rgb(51, 175, 51); }
+
+.linksPanel .info .status.stable::after { content: "î˜€"; color: rgb(51, 175, 51); }
+
+.linksPanel .info .status.proposal::after { content: "î˜"; color: rgb(136, 176, 56); }
+
+.linksPanel .info .status.experimental::after { content: "î˜„"; color: rgb(236, 101, 52); }
+
+.linksPanel .info .status.controversial::after { content: "î˜ƒ"; color: rgb(236, 101, 52); }
+
+.linksPanel .info .status.optional::after { content: "î˜…"; color: rgb(170, 170, 170); }
+
+.linksPanel .info .status.rejected::after { content: "î˜‚"; color: rgb(133, 51, 51); }
+
+.linksPanel .info .column a.compare::before { position: absolute; top: 19px; width: 100%; text-align: center; display: block; content: "âš"; font-family: html5test; font-size: 30px; color: rgb(51, 175, 51); }
+
+.linksPanel .info .column a.timeline::before { position: absolute; top: 19px; width: 100%; text-align: center; display: block; content: "ï€’"; font-family: html5test; font-size: 30px; color: rgb(51, 175, 51); }
+
+.linksPanel h3 { line-height: 32px; padding: 0px 10px; border-bottom: 1px solid rgb(238, 238, 238); }
+
+.linksPanel .links a { display: block; white-space: nowrap; line-height: 30px; padding: 0px 10px; background-size: 24px 24px; background-position: 10px center; background-repeat: no-repeat; overflow: hidden; text-overflow: ellipsis; }
+
+.linksPanel .links a:hover { background-color: rgb(238, 238, 238); text-decoration: none; }
+
+.linksPanel .links a.w3c { background-image: url("/images/external/w3c.png"); background-size: 24px 24px; text-indent: 32px; }
+
+.linksPanel .links a.whatwg { background-image: url("/images/external/whatwg.svg"); background-size: 20px 20px; text-indent: 32px; }
+
+.linksPanel .links a.khronos { background-image: url("/images/external/khronos.png"); background-size: 24px 24px; text-indent: 32px; }
+
+.linksPanel .links a.wp { background-image: url("/images/external/wp.png"); background-size: 24px 24px; text-indent: 32px; }
+
+.linksPanel .links a.mdn { background-image: url("/images/external/mdn.svg"); text-indent: 32px; }
+
+.linksPanel .links a.ecma { background-image: url("/images/external/ecma.png"); text-indent: 32px; }
+
+.linksPanel .links a.ricg { background-image: url("/images/external/ricg.svg"); background-size: 30px 30px; text-indent: 32px; }
+
+#html5 { float: right; display: block; width: 74px; height: 102px; margin: 16px 0px 10px 10px; background: url("/images/html5.png") 0% 0% / 74px 102px; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  #html5 { background-image: url("/images/html5@2x.png"); }
+}
+
+.paper .buttons { overflow: hidden; padding: 0px !important; }
+
+.paper .buttons > * { display: inline-block; float: left; width: 25%; overflow: hidden; text-overflow: ellipsis; }
+
+@media (max-width: 680px) {
+  .paper .buttons > * { width: 50%; }
+}
+
+@media (max-width: 432px) {
+  .paper .buttons > * { width: 100%; }
+}
+
+#headerad { position: absolute; top: 0px; right: 0px; width: 125px; height: 125px; background: rgb(238, 238, 238); overflow: hidden; padding: 10px; border-bottom: 8px solid rgb(217, 217, 217); border-left: 8px solid rgb(217, 217, 217); }
+
+#headerad div { width: 125px; height: 125px; display: inline-block; }
+
+#footerad { margin-top: 30px; overflow: hidden; background: rgb(238, 238, 238); padding: 10px; text-align: center; }
+
+#footerad > div a, #footerad > div iframe { width: 125px; height: 125px; overflow: hidden; margin: 0px 5px; display: inline-block; float: none; vertical-align: middle; }
+
+@media (max-width: 680px) {
+  #headerad { position: static; border: none; width: 100%; padding: 10px 0px; text-align: center; margin-bottom: 30px; }
+}
+------MultipartBoundary--SyCVWwrhRLjkKJQzxlkTPCevCTrdpa5QlgJYgCBrcm----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://html5test.com/images/sponsors/cloudvps@2x.png
+
+‰PNG
+
+   IHDR   v   T   `3   `PLTE   DmDmDmDmDmDmDmDmDmDmDmDmDmDmÀĞÚDmCs’¡¶Pv3gˆS›r–­ĞÜä°ÄÑ#[ïóö‘­¿¡¹ÈbŠ¤àèíÿÿÿ<Š:   tRNS ¿ŸPßÏ¯@ï0p€ züA  SIDATx^íØërÛ àÆqœôºË]w½ÿ[6 q:FeM±Ô™äü©
+j?ƒ	ùs½¼pıÜ¾şò@.W˜Õóô=‡>¿ò#ó3£Şø±¹äÔÜW~|~lÔ+oÏ)‹5|è4¿1Ÿ1Ü“ë¡sŒ|½gù <ıÇ¬ 2}õYAó{h•ı3#Æù¾&ÊşÍğ,ŞäÒâšq';ÎkÆ-Û£/ÏÆ8µ‡53bRÖÎˆÈ²‰[ÈN~‚iŞ)aUç'Ø
+}yVJtYÎŠÈù/QƒÅôSüh:ÏÆw»rVúÙÂÃ=;„/}y6~lQÌ6ñmMD#XŞ CÅç·e,¦ç–#B¬ÜÅr†Å£.`Å.¶+a¹mŠÙ¹&KŒıd?YWÂªB¶ßµKµy¶|s}Ëş=¹•Rş¥´Ù“QÜÌ¶ğÁHš,ª¤)fm¬i½÷Áb ı¦ğÚø¶,N"m1ÛzF3kÿÏXNû¡­}hÑ+V8,ä"–ï87ÇQÏk(Ï}AÁÛMl@ÄV¹M*eÛ.=j´t*eG.aáÒê(NYÖ}kĞÒò=;™½—!‰ú8CrÍ¸0¦'’‚‘´e\ßÖç_½>ÙDÑVdİ²áªîİİSXÈ•Ø!Ô2œkE`™üØËZ,®^¬¼“nJ&iXìÀ(¸.*ƒ”rZŒeÆùöJ,ÇòÀ6½{©¥µ©õ|ª"XT^òz\~µX”WJîÕèB™ì‰¨­Äš¸”1…w¬Lon•X`øsËbª±¸Xw89mX³|ÅªÍËŠ‘+ş*¾lë²Ö+Ğ¡1ë¸–öÊ:,¶	0Ç`áx¥šy	éz,/KÙ‘Eºufõ€¿W`ÁPXÈ6e;BÙ	£¯Ãö~)ü”`’«¶ÇŞ*,6%7÷“m&tÔ`[Ï8ğçÙ¦‹"d	5<ÏÊZ,FÑÇ’¾eõ`å¢2£å¿ö$‹ Nœgç¿r®Çr`‡é4·CÍÓ6]»eQ‘Y“í=+r,P×dGÏr–eÛ´“|—Û?²J¡h!DZÕ…•VpšËW¯Ô½ã^ø÷Ïq_Îq¯|ûzû|û`î+Ÿ´®^Ï€/Ê—ßpCº.1    IEND®B`‚
+------MultipartBoundary--SyCVWwrhRLjkKJQzxlkTPCevCTrdpa5QlgJYgCBrcm----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://html5test.com/css/reporting.css
+
+@charset "utf-8";
+
+.scorePanel { position: relative; }
+
+.scorePanel .left, .scorePanel .right { float: left; }
+
+.scorePanel h3 { font-size: 1.6em; text-transform: lowercase; color: rgb(136, 136, 136); }
+
+#scoreToggle { position: absolute; top: 0px; right: 0px; }
+
+.scoreTable { margin: 0px 0px 50px; }
+
+.scoreTable tr.secondary { display: none; }
+
+.scoreTable.showAll tr.secondary { display: table-row; }
+
+.scoreTable th, .scoreTable td { font-weight: normal; text-align: left; border-top: 1px solid rgb(221, 221, 221); padding: 4px 10px; vertical-align: top; font-size: 1em; }
+
+.scoreTable thead th { text-align: left; padding-left: 10px; padding-bottom: 10px; border-top: none; font-weight: bold; position: relative; }
+
+.scoreTable thead th::after { display: block; position: absolute; content: ""; width: 0px; height: 10px; border-right: 1px solid rgb(221, 221, 221); left: 0px; bottom: 0px; }
+
+.scoreTable thead th:last-child::before { display: block; position: absolute; content: ""; width: 10px; height: 10px; border-right: 1px solid rgb(221, 221, 221); right: 0px; bottom: 0px; }
+
+.scoreTable a { color: inherit; text-decoration: none; display: block; }
+
+.scoreTable a span { opacity: 0.4; font-size: 120%; }
+
+.scoreTable em { color: rgb(136, 136, 136); }
+
+.scoreTable .nickname { width: 30%; padding-right: 10px; white-space: nowrap; cursor: pointer; }
+
+.scoreTable .details { width: 26%; padding-right: 10px; font-size: 0.8em; }
+
+.scoreTable .description { width: 28%; padding-right: 10px; font-size: 0.9em; }
+
+.scoreTable .description em { display: inline-block; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; width: 190px; }
+
+.scoreTable th.points { text-align: right; }
+
+.scoreTable td.points { width: 5%; text-align: right; padding-right: 10px; padding-left: 10px; font-size: 1.1em; font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: bold; }
+
+.scoreTable .count, .scoreTable .percentage { width: 20%; text-align: right; }
+
+@media (max-width: 680px) {
+  .scoreTable .description { display: none; }
+}
+
+.latestTable { table-layout: fixed; }
+
+.latestTable th { }
+
+.latestTable a { overflow-x: hidden; text-overflow: ellipsis; }
+
+.latestTable .nickname { width: 60%; }
+
+#fsCanvas { position: relative; }
+
+#fsButton { position: absolute; top: 30px; right: 8px; z-index: 10000; border: none; background: none; color: rgb(136, 136, 136); font-size: 26px; font-weight: bold; transform: rotate(-45deg); cursor: pointer; }
+
+#fsButton::before { display: inline; content: "â†”"; }
+
+div:fullscreen { background: rgb(255, 255, 255); width: 100% !important; height: 100% !important; }
+
+div:fullscreen h2 { display: none; }
+
+div:fullscreen #fsButton { top: 10px; right: 40px; }
+
+div:fullscreen #fsButton::before { content: "+"; }
+
+div:fullscreen #timelineGraph { position: absolute; inset: 50px 30px 30px; height: auto !important; }
+
+div:-webkit-full-screen { background: rgb(255, 255, 255); width: 100% !important; height: 100% !important; }
+
+div:-webkit-full-screen h2 { display: none; }
+
+div:-webkit-full-screen #fsButton { top: 10px; right: 40px; }
+
+div:-webkit-full-screen #fsButton::before { content: "+"; }
+
+div:-webkit-full-screen #timelineGraph { position: absolute; inset: 50px 30px 30px; height: auto !important; }
+
+.comparisonTable { position: relative; }
+
+.comparisonTable .filters { height: 40px; }
+
+.comparisonTable .filters + hr { border-top-width: 3px; }
+
+.comparisonTable #scoreToggle { position: static; float: left; }
+
+.comparisonTable #searchField { position: static; float: right; }
+
+.comparisonTable hr { clear: both; }
+
+.comparisonTable table { margin-top: 20px; margin-bottom: 40px; font-size: 1em; }
+
+.comparisonTable table th, .comparisonTable table td { border-bottom: 1px solid rgb(221, 221, 221); padding: 5px 0px; font-weight: normal; text-align: left; }
+
+.comparisonTable table th.hasLink { cursor: pointer; }
+
+.comparisonTable table th code { font-size: 12px; }
+
+.comparisonTable table th { max-width: 0px; width: 100%; overflow: hidden; white-space: nowrap; }
+
+.comparisonTable table th > div { width: 100%; overflow: hidden; text-overflow: ellipsis; }
+
+.comparisonTable table td { width: 96px; min-width: 96px; max-width: 96px; text-align: center; border-right: 1px solid rgb(255, 255, 255); }
+
+.comparisonTable table td.used { background-color: rgb(238, 238, 238); }
+
+.comparisonTable table td.used.yes { background-color: rgba(28, 140, 29, 0.1); }
+
+.comparisonTable table td.used.no { background-color: rgba(133, 51, 51, 0.1); }
+
+.comparisonTable table th em { font-style: normal; font-size: 90%; color: rgb(136, 136, 136); }
+
+.comparisonTable table th.details { padding-top: 15px; }
+
+.comparisonTable table th.details em { color: rgb(102, 102, 102); }
+
+.comparisonTable table tr.hasChild th { cursor: pointer; }
+
+.comparisonTable table tr.hasChild th > div { padding-left: 20px; }
+
+.comparisonTable table tr.hasChild th > * { position: relative; }
+
+.comparisonTable table tr.hasChild th > ::before { position: absolute; top: -1px; left: 2px; display: block; font-family: html5test; font-size: 11px; content: "â–¼"; color: rgb(136, 136, 136); transition: transform 200ms ease 0s; }
+
+.comparisonTable table tr.hasChild.hidden th > ::before { transform: rotate(-90deg) translateX(-1px); }
+
+.comparisonTable table tr.isChild th { font-size: 80%; padding: 4px 8px 3px 20px; }
+
+.comparisonTable table tr.isChild td { font-size: 80%; padding: 4px 0px; }
+
+.comparisonTable table tr.isChild td.used { background-color: rgb(246, 246, 246); }
+
+.comparisonTable table tr.isChild th code { font-size: 10px; }
+
+.comparisonTable table th a { color: rgb(0, 0, 0); text-decoration: none; }
+
+.comparisonTable table th a:hover { text-decoration: underline; }
+
+.comparisonTable table th a span { color: rgb(170, 170, 170); font-size: 120%; text-decoration: none !important; }
+
+.comparisonTable table thead th { font-weight: bold; font-size: 1.6em; text-transform: lowercase; color: rgb(136, 136, 136); background: none; padding: 8px 0px; }
+
+.comparisonTable table h3 { font-weight: bold; font-size: 1.6em; text-transform: lowercase; color: rgb(136, 136, 136); margin: 0px; padding: 16px 0px 8px; }
+
+.comparisonTable table tr:first-child h3 { padding: 0px 0px 8px; }
+
+.comparisonTable table thead td { font-family: "League Gothic", Impact; font-weight: normal; font-style: normal; font-size: 2.4em; color: rgb(153, 153, 153); background: none; padding: 8px 0px; position: relative; }
+
+.comparisonTable table thead td::after { display: block; position: absolute; content: ""; width: 0px; height: 10px; border-right: 1px solid rgb(221, 221, 221); left: 0px; bottom: 0px; }
+
+.comparisonTable table thead td:last-child::before { display: block; position: absolute; content: ""; width: 10px; height: 10px; border-right: 1px solid rgb(221, 221, 221); right: 0px; bottom: 0px; }
+
+.comparisonTable h2 { color: rgb(0, 146, 191); clear: both; margin: 0px !important; }
+
+.comparisonTable #table-header td, .comparisonTable #table-header th { border-bottom: none; }
+
+.comparisonTable #table-header #row-header th { padding: 0px 40px 0px 0px; background: none; vertical-align: top; white-space: normal; }
+
+.comparisonTable #table-header #row-header th p { margin: 0px; }
+
+.comparisonTable #table-header #row-header td { background: rgb(0, 146, 191); height: 80px; cursor: pointer; }
+
+.comparisonTable #table-header #row-header td.empty { background: rgb(238, 238, 238); }
+
+.comparisonTable #table-header #row-header div.name { display: table; overflow: hidden; }
+
+.comparisonTable #table-header #row-header span { display: block; text-align: center; width: 96px; color: rgb(178, 221, 235); }
+
+.comparisonTable #table-header #row-header span.nickname { position: absolute; top: 58px; font-weight: bold; line-height: 105%; padding: 0px 10px; width: 76px; overflow: hidden; text-overflow: ellipsis; }
+
+.comparisonTable #table-header #row-header span.score { position: absolute; bottom: 46px; font-size: 4em; font-style: normal; font-family: "League Gothic", Impact; font-weight: normal; color: rgb(255, 255, 255); }
+
+.comparisonTable #table-header #row-header span.feature { font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 80%; font-weight: bold; line-height: 140%; padding: 0px 4px; width: 89px; display: table-cell; vertical-align: middle; }
+
+.comparisonTable #table-header #row-header span.feature code { font-size: 11px; }
+
+.comparisonTable #table-header #row-header span.feature hr { border-right: none; border-bottom: none; border-left: none; border-image: initial; border-top: 1px solid rgb(255, 255, 255); margin: 4px -4px; padding: 0px; opacity: 0.3; }
+
+.comparisonTable #table-header #row-header span.bonus { position: absolute; bottom: 5px; font-size: 90%; }
+
+.comparisonTable #table-header #row-header td { padding: 0px; }
+
+.comparisonTable #table-header #row-header td > div { position: relative; width: 96px; height: 90px; }
+
+.comparisonTable #table-header #row-header td > div > div.name { width: 96px; height: 90px; }
+
+.comparisonTable #table-header #row-header td.empty > div > div.name::after { position: absolute; top: 0px; left: 0px; line-height: 90px; width: 96px; height: 90px; display: block; content: "+"; font-size: 3em; color: rgb(0, 146, 191); transition: all 0.2s ease-in-out 0s; }
+
+.comparisonTable #table-header #row-header td > div > div.name:hover::after { background: rgb(0, 146, 191); color: rgb(179, 222, 235); }
+
+.comparisonTable #table-header #row-header td:not(.empty) > div > div.name::after { position: absolute; top: 0px; left: 0px; display: block; content: "Ã—"; font-size: 3em; line-height: 90px; width: 96px; height: 90px; z-index: 2; opacity: 0; transition: all 0.2s ease-in-out 0s; }
+
+.comparisonTable #table-header #row-header td:not(.empty) > div > div.name:hover::after { opacity: 0.8; }
+
+.comparisonTable #table-header #row-header td .popup { display: none; position: absolute; top: 80px; left: -138px; z-index: 9; width: 200px; }
+
+.comparisonTable #table-header #row-header td .popup.visible { display: block; }
+
+.comparisonTable #table-header #row-header td .popup > div.scroll { height: 400px; overflow: hidden scroll; }
+
+.comparisonTable #table-header #row-header td .popup ul { transform: translate3d(0px, 0px, 0px); width: 200px; margin: 0px; padding: 10px 0px; text-align: left; line-height: 170%; font-size: 0.9em; cursor: default; }
+
+.comparisonTable #table-header #row-header td .popup ul li { padding: 1px 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.comparisonTable #table-header #row-header td .popup ul li em { font-style: normal; font-size: 90%; color: rgb(136, 136, 136); }
+
+.comparisonTable #table-header #row-header td .popup ul li code { font-size: 11px; }
+
+.comparisonTable #table-header #row-header td .popup ul li.indent-1 { padding-left: 10px; }
+
+.comparisonTable #table-header #row-header td .popup ul li.indent-2 { padding-left: 20px; }
+
+.comparisonTable #table-header #row-header td .popup ul li.indent-3 { padding-left: 30px; }
+
+.comparisonTable #table-header #row-header td .popup ul li:hover { background: rgb(238, 238, 238); cursor: pointer; }
+
+.comparisonTable #table-header #row-header td .popup ul li.indent-0.title { font-weight: bold; color: rgb(0, 0, 0); font-size: 115%; padding-top: 10px; }
+
+.comparisonTable #table-header #row-header td .popup ul li.title:hover { background: rgb(255, 255, 255); cursor: default; }
+
+@media (max-width: 880px) {
+  .comparisonTable table tr :nth-child(6) { display: none; }
+}
+
+@media (max-width: 780px) {
+  .comparisonTable table tr :nth-child(5) { display: none; }
+}
+
+@media (max-width: 680px) {
+  .comparisonTable table tr :nth-child(4) { display: none; }
+  .comparisonTable table { font-size: 0.95em; }
+  .comparisonTable table th code { font-size: 10px; }
+}
+
+@media (max-width: 432px) {
+  .comparisonTable table tr :nth-child(3) { display: none; }
+}
+
+.overviewTable { }
+
+.overviewTable th, .overviewTable td { font-weight: normal; text-align: center; border-bottom: 1px solid rgb(221, 221, 221); padding: 6px 0px; vertical-align: top; font-size: 1em; white-space: nowrap; }
+
+.overviewTable thead th { font-weight: bold; padding-bottom: 10px; white-space: inherit; position: relative; }
+
+.overviewTable thead th a { color: inherit; text-decoration: none; }
+
+.overviewTable thead th::after { display: block; position: absolute; content: ""; width: 0px; height: 10px; border-right: 1px solid rgb(221, 221, 221); left: 0px; bottom: 0px; }
+
+.overviewTable thead th:last-child::before { display: block; position: absolute; content: ""; width: 10px; height: 10px; border-right: 1px solid rgb(221, 221, 221); right: 0px; bottom: 0px; }
+
+.overviewTable tbody th { text-align: right; font-size: 0.8em; font-weight: bold; color: rgb(136, 136, 136); width: 60px; padding-left: 10px; padding-right: 10px; }
+
+.overviewTable .development { background: rgb(238, 238, 238); }
+
+.overviewTable .current { background: rgb(246, 246, 246); }
+
+.overviewTable span.version { display: inline-block; width: 40px; text-align: right; font-size: 0.8em; }
+
+.overviewTable span.heading { position: relative; top: 2px; font-weight: bold; font-size: 0.85em; color: rgb(68, 68, 68); }
+
+.overviewTable span.version span { }
+
+.overviewTable span.version span span { font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; color: rgb(255, 255, 255); background: rgb(170, 170, 170); padding: 2px 4px; }
+
+.overviewTable span.version > span::after { content: ""; display: inline-block; border-left: 4px solid rgb(170, 170, 170); border-top: 4px solid rgba(0, 0, 0, 0); border-bottom: 4px solid rgba(0, 0, 0, 0); width: 0px; height: 0px; }
+
+.overviewTable span.points { display: inline-block; width: 40px; font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: bold; text-align: left; }
+
+.overviewTable .current span.points { font-size: 1.2em; }
+
+.overviewTable .current span.version span span { background: rgb(0, 146, 191); }
+
+.overviewTable .current span.version > span::after { border-left: 4px solid rgb(0, 146, 191); }
+
+.horizontalOverflow { overflow: scroll visible; }
+
+.diffTable { padding-left: 70px; }
+
+.diffTable table { width: 100%; margin-top: 22px; border-top: 1px solid rgb(221, 221, 221); }
+
+.diffTable table th, .diffTable table td { padding: 6px 0px; border-bottom: 1px solid rgb(221, 221, 221); }
+
+.diffTable table th { text-align: left; font-weight: normal; max-width: 0px; width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.diffTable table th code { font-size: 1.1em; }
+
+.diffTable table a { color: inherit; text-decoration: none; }
+
+.diffTable table td { text-align: right; white-space: nowrap; }
+
+.diffTable table td > div div { display: inline-block; margin: 0px 1em; width: 70px; text-align: center; }
+
+@media (max-width: 680px) {
+  .diffTable { padding-left: 0px; }
+  .diffTable table th, .diffTable table td { font-size: 0.9em; padding-bottom: 30px; }
+  .diffTable table td > div div { margin: 0px 0.5em; width: 60px; }
+  .diffTable table td { position: relative; padding-top: 2em; padding-bottom: 4em; }
+  .diffTable table td > div { position: absolute; bottom: 1.3em; right: 0px; }
+}
+
+.diffHeader { position: relative; height: 38px; }
+
+.diffHeader .points { font-family: "League Gothic", Impact; font-weight: normal; font-style: normal; font-size: 4em; color: rgb(0, 146, 191); position: absolute; top: 10px; left: 0px; }
+
+.diffHeader h3 { font-size: 1.3em; position: absolute; top: -0.3em; left: 70px; margin: 0px !important; }
+
+.diffHeader h3 a { color: inherit; text-decoration: none; }
+
+.diffHeader h3 a:hover { text-decoration: underline; }
+
+.diffHeader h3 span { color: rgb(170, 170, 170); }
+
+.diffHeader p { position: absolute; top: 1.6em; left: 70px; }
+
+h2 span { color: rgb(170, 170, 170); font-size: 80%; }
+------MultipartBoundary--SyCVWwrhRLjkKJQzxlkTPCevCTrdpa5QlgJYgCBrcm------
